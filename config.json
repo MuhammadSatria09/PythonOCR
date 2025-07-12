@@ -1,0 +1,36 @@
+{
+    "global_settings": {
+      "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+      "pyautogui_pause": 0.1,
+      "pause_resume_key": "f10",
+      "enable_farming_bot": true,
+      "enable_mana_checker": true
+    },
+    "farming_bot": {
+      "monster_template_path": "Templates/Monster.png",
+      "screen_region": null,
+      "match_threshold": 0.5,
+      "ocr_scale_factor": 2.0,
+      "attack_key": "3",
+      "targeting_key": "tab",
+      "skill_cooldown_seconds": 12.0, 
+      "tesseract_char_whitelist": "0123456789m",
+      "ocr_corrections": {
+        "IIm": "11m",
+        "Am": "4m",
+        "Om": "0m",
+        "Sm": "5m",
+        "lm": "1m"
+      }
+    },
+    "mana_checker": {
+      "mana_template_path": "Templates/OutOfMana.png",
+      "check_interval_seconds": 0.05,
+      "confidence_threshold": 0.42,
+      "mana_pot_key": "1",
+      "second_recovery_key": "2",
+      "delay_after_detection_seconds": 0.7,
+      "delay_after_pot_seconds": 8.0,
+      "debug_mode": false
+    }
+  }
