@@ -14,6 +14,7 @@
       "attack_key": "3",
       "targeting_key": "tab",
       "skill_cooldown_seconds": 12.0, 
+      "tesseract_char_whitelist": "0123456789m",
       "ocr_corrections": {
         "IIm": "11m",
         "Am": "4m",
@@ -24,12 +25,12 @@
     },
     "mana_checker": {
       "mana_template_path": "Templates/OutOfMana.png",
-      "check_interval_seconds": 0.5,
-      "confidence_threshold": 0.5,
+      "check_interval_seconds": 0.05,
+      "confidence_threshold": 0.42,
       "mana_pot_key": "1",
       "second_recovery_key": "2",
       "delay_after_detection_seconds": 0.7,
-      "delay_after_pot_seconds": 4.0,
+      "delay_after_pot_seconds": 8.0,
       "debug_mode": false
     }
   }

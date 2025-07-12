@@ -40,21 +40,30 @@ def find_items_on_screen(screen, template, threshold=0.8):
         rectangles, _ = cv2.groupRectangles(rectangles, 1, 0.1)
     return rectangles
 
-def extract_item_text_tesseract(screen, rectangles, scale_factor=2.0):
+def extract_item_text_tesseract(screen, rectangles, scale_factor=2.0, char_whitelist=None):
     """Extract text from specified rectangles on the screen using Tesseract."""
     if not rectangles.any(): return []
     extracted_texts = []
-    tesseract_config = r'--oem 3 --psm 6'
+    base_config = r'--oem 3 --psm 6'
+    # If a whitelist is provided, add it to the config command
+    if char_whitelist and char_whitelist.strip():
+        # The -c flag sets a configuration variable. No special character escaping is needed here.
+        tesseract_config = f"{base_config} -c tessedit_char_whitelist='{char_whitelist}'"
+    else:
+        tesseract_config = base_config
     for rect in rectangles:
         x, y, w, h = rect
         padding = 5
         x_pad, y_pad = max(0, x - padding), max(0, y - padding)
         w_pad, h_pad = min(screen.shape[1] - x_pad, w + 2 * padding), min(screen.shape[0] - y_pad, h + 2 * padding)
         item_crop = screen[y_pad:y_pad + h_pad, x_pad:x_pad + w_pad]
+        
         if item_crop.shape[0] > 0 and item_crop.shape[1] > 0:
             item_crop_scaled = cv2.resize(item_crop, (0, 0), fx=scale_factor, fy=scale_factor, interpolation=cv2.INTER_CUBIC)
             gray = cv2.cvtColor(item_crop_scaled, cv2.COLOR_BGR2GRAY)
             _, processed = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)
+            
+            # Use the newly constructed config string
             text = pytesseract.image_to_string(processed, config=tesseract_config)
             extracted_texts.append(text)
         else:

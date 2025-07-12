@@ -67,7 +67,7 @@ Your project folder should be organized as follows for the script to work correc
 All customization is done in the `config.json` file.
 
 -   **`tesseract_path`**: **(CRITICAL)** If Tesseract is not in your system's PATH, you must provide the full path to the executable here. Example for Windows: `"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"`. Note the double backslashes `\\`.
--   **Template Paths**: Make sure the paths for your `monster_template_path` and `mana_template_path` include the `Templates/` folder prefix (e.g., `"Templates/Monster.png"`).
+-   **Template Paths**: Make sure the paths for your `monster_template_path` and `mana_template_path` include the `Templates/` folder prefix (e.g., `"Templates/Monster.png"`). **I Recommend to take replace this with your screenshot**
 -   **`pause_resume_key`**: The keyboard key to pause and resume the bot (e.g., `"f10"`, `"p"`).
 -   **`attack_key`**, **`targeting_key`**, **`mana_pot_key`**, **`second_recovery_key`**: Set these to match the keybinds you use in-game.
 -   **`skill_cooldown_seconds`**: Set this to the total cooldown time of your main attack skill in seconds (e.g., `6.0`). The bot will automatically subtract its processing time from this value.
@@ -98,3 +98,11 @@ All customization is done in the `config.json` file.
 -   **Pause/Resume**: Press the key defined in `pause_resume_key` (default: **F10**).
 -   **Stop**: Switch back to the terminal window and press **Ctrl+C**. This will shut down all bot threads gracefully.
 
+<<<<<<< HEAD
+=======
+### In-Game Requirement
+- **Toram Online** : Magic Skill :
+    - MP Charge Lv 10
+    - Maximizer Lv 10
+    - Magic : Storm Lv 10
+>>>>>>> master

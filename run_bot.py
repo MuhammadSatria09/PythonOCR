@@ -89,7 +89,12 @@ def farming_bot_thread(config):
             
             attacked = False
             if len(items) > 0:
-                raw_texts = bot.extract_item_text_tesseract(screen, items, cfg['ocr_scale_factor'])
+                raw_texts = bot.extract_item_text_tesseract(
+                    screen, 
+                    items, 
+                    scale_factor=cfg['ocr_scale_factor'], 
+                    char_whitelist=cfg.get('tesseract_char_whitelist') # Pass the whitelist here
+                )
                 items_data = []
                 for i, rect in enumerate(items):
                     corrected_text = bot.correct_ocr_errors(raw_texts[i], cfg['ocr_corrections'])
@@ -163,7 +168,10 @@ def mana_checker_thread(config):
                 
                 print(f"[MANA CHECKER] Used '{cfg['mana_pot_key']}'. Waiting for second skill...")
                 time.sleep(cfg['delay_after_pot_seconds'])
-                pyautogui.keyDown(cfg['second_recovery_key'])
+                pyautogui.press(cfg['second_recovery_key'])
+                time.sleep(0.5)
+                pyautogui.press(cfg['second_recovery_key'])
+                time.sleep(0.5)
                 
                 print(f"[MANA CHECKER] Used '{cfg['second_recovery_key']}'. Recovery complete. Releasing action lock.")
                 
