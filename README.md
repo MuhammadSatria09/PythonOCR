@@ -98,11 +98,8 @@ All customization is done in the `config.json` file.
 -   **Pause/Resume**: Press the key defined in `pause_resume_key` (default: **F10**).
 -   **Stop**: Switch back to the terminal window and press **Ctrl+C**. This will shut down all bot threads gracefully.
 
-<<<<<<< HEAD
-=======
 ### In-Game Requirement
 - **Toram Online** : Magic Skill :
     - MP Charge Lv 10
     - Maximizer Lv 10
     - Magic : Storm Lv 10
->>>>>>> master
