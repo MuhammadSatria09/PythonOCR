@@ -1,7 +1,7 @@
 
 # Python OCR & Automation Bot
 
-This is a sophisticated Python-based automation bot designed to perform tasks in a game by visually interpreting the screen. It operates using a multi-threaded approach to handle different tasks simultaneously, such as farming enemies and monitoring character status.
+This is a sophisticated Python-based automation bot designed to perform tasks in a game by visually interpreting the screen. It operates using a multi-threaded approach to handle different tasks simultaneously.
 
 ## Features
 
