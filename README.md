@@ -31,7 +31,7 @@ Ensure you have **Python 3.8 or newer** installed. You can download it from the 
 
 ### 2. Tesseract OCR Engine
 This is a critical dependency for reading text from the screen.
--   Download and install the 64-bit installer from this direct link: **[tesseract-ocr-w64-setup-v5.5.0.20241111.exe](https://sourceforge.net/projects/tesseract-ocr.mirror/files/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe/download)**.
+-   Download and install the 64-bit installer for Tesseract OCR from **[Tesseract Github](https://github.com/UB-Mannheim/tesseract/wiki)**.
 -   During installation, **make sure to add Tesseract to your system's PATH**, or you will need to specify the full path to `tesseract.exe` in the `config.json` file.
 
 ### 3. Python Libraries (Dependencies)
