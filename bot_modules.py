@@ -5,6 +5,7 @@ from PIL import ImageGrab, Image
 import re
 import pyautogui
 import time
+import os
 
 # ==============================================================================
 # --- UTILITY AND VISION FUNCTIONS (SHARED) ---
@@ -40,18 +41,37 @@ def find_items_on_screen(screen, template, threshold=0.8):
         rectangles, _ = cv2.groupRectangles(rectangles, 1, 0.1)
     return rectangles
 
-def extract_item_text_tesseract(screen, rectangles, scale_factor=2.0, char_whitelist=None):
-    """Extract text from specified rectangles on the screen using Tesseract."""
-    if not rectangles.any(): return []
-    extracted_texts = []
+# In bot_modules.py
+import cv2
+import pytesseract
+
+def extract_item_text_tesseract(screen, rectangles, scale_factor=2.0, char_whitelist=None, preprocessing_cfg=None):
+    """
+    Extract text from specified rectangles using Tesseract, with a configurable preprocessing pipeline.
+    """
+    if not hasattr(rectangles, 'any') or not rectangles.any(): 
+        return []
+
+    if preprocessing_cfg is None:
+        preprocessing_cfg = {} # Default to empty dict if not provided
+
+    # --- Tesseract Configuration ---
     base_config = r'--oem 3 --psm 6'
-    # If a whitelist is provided, add it to the config command
     if char_whitelist and char_whitelist.strip():
-        # The -c flag sets a configuration variable. No special character escaping is needed here.
         tesseract_config = f"{base_config} -c tessedit_char_whitelist='{char_whitelist}'"
     else:
         tesseract_config = base_config
-    for rect in rectangles:
+
+    # --- Preprocessing Configuration ---
+    interpolation_map = {
+        "CUBIC": cv2.INTER_CUBIC,
+        "LINEAR": cv2.INTER_LINEAR,
+        "LANCZOS4": cv2.INTER_LANCZOS4
+    }
+    interpolation_method = interpolation_map.get(preprocessing_cfg.get("resizing_interpolation", "CUBIC"), cv2.INTER_CUBIC)
+
+    extracted_texts = []
+    for i, rect in enumerate(rectangles):
         x, y, w, h = rect
         padding = 5
         x_pad, y_pad = max(0, x - padding), max(0, y - padding)
@@ -59,17 +79,38 @@ def extract_item_text_tesseract(screen, rectangles, scale_factor=2.0, char_white
         item_crop = screen[y_pad:y_pad + h_pad, x_pad:x_pad + w_pad]
         
         if item_crop.shape[0] > 0 and item_crop.shape[1] > 0:
-            item_crop_scaled = cv2.resize(item_crop, (0, 0), fx=scale_factor, fy=scale_factor, interpolation=cv2.INTER_CUBIC)
-            gray = cv2.cvtColor(item_crop_scaled, cv2.COLOR_BGR2GRAY)
-            _, processed = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)
+            # 1. Upscaling
+            item_crop_scaled = cv2.resize(item_crop, (0, 0), fx=scale_factor, fy=scale_factor, interpolation=interpolation_method)
             
-            # Use the newly constructed config string
+            # 2. Grayscaling
+            gray = cv2.cvtColor(item_crop_scaled, cv2.COLOR_BGR2GRAY)
+
+            # 3. Binarization (Thresholding)
+            thresh_method_name = preprocessing_cfg.get("thresholding_method", "OTSU")
+            use_inversion = preprocessing_cfg.get("threshold_inversion", True)
+            
+            threshold_type = cv2.THRESH_BINARY_INV if use_inversion else cv2.THRESH_BINARY
+
+            if thresh_method_name == "ADAPTIVE":
+                processed = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, threshold_type, 11, 2)
+            else: # Default to OTSU
+                threshold_type |= cv2.THRESH_OTSU
+                _, processed = cv2.threshold(gray, 0, 255, threshold_type)
+
+            # 4. Save a debug image of the final processed result if enabled
+            if preprocessing_cfg.get("save_debug_image", False):
+                # Ensure the debug folder exists
+                if not os.path.exists('debug_ocr'):
+                    os.makedirs('debug_ocr')
+                cv2.imwrite(f'debug_ocr/processed_image_{i}.png', processed)
+
+            # 5. OCR
             text = pytesseract.image_to_string(processed, config=tesseract_config)
             extracted_texts.append(text)
         else:
             extracted_texts.append('')
+            
     return extracted_texts
-
 def correct_ocr_errors(text, corrections):
     """Correct common OCR errors based on a provided dictionary."""
     text = text.replace('\n', ' ').replace('\f', '').strip()
@@ -101,7 +142,7 @@ def find_and_attack_closest(items_data, config, region_offset=(0, 0)):
         absolute_click_x = offset_x + x + (w // 2)
         absolute_click_y = offset_y + y + (h // 2)
         
-        pyautogui.moveTo(absolute_click_x, absolute_click_y, duration=0.25)
+        pyautogui.moveTo(absolute_click_x, absolute_click_y, duration=0.1)
         pyautogui.click()
         time.sleep(0.2)
         pyautogui.press(config['attack_key'])

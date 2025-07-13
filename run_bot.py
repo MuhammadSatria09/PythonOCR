@@ -89,12 +89,16 @@ def farming_bot_thread(config):
             
             attacked = False
             if len(items) > 0:
+                # --- THIS IS THE LINE TO CHANGE ---
                 raw_texts = bot.extract_item_text_tesseract(
                     screen, 
                     items, 
                     scale_factor=cfg['ocr_scale_factor'], 
-                    char_whitelist=cfg.get('tesseract_char_whitelist') # Pass the whitelist here
+                    char_whitelist=cfg.get('tesseract_char_whitelist'),
+                    preprocessing_cfg=cfg.get('preprocessing') # Pass the entire preprocessing block
                 )
+                # ------------------------------------
+
                 items_data = []
                 for i, rect in enumerate(items):
                     corrected_text = bot.correct_ocr_errors(raw_texts[i], cfg['ocr_corrections'])
