@@ -1,0 +1,4952 @@
+[
+  {
+    "name": "Yaeno Muteki (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30032-yaeno-muteki",
+    "events": [
+      {
+        "event_title": "Yaeno's Off-Site Training",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSkill points +10\nYaeno Muteki bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +10\nSkill points +10\nPlaytime's Over!\nhint +3\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) A Reasonable Diet vs. an Explosive Diet",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSkill points +10\nYaeno Muteki bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +10\nSkill points +10\nPlaytime's Over!\nhint +3\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Yaeno Muteki's Love Song Nightmare",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSkill points +10\nYaeno Muteki bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +10\nSkill points +10\nPlaytime's Over!\nhint +3\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "Firm and Plain, Yet Close to Virtue",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nPower +5"
+          }
+        ]
+      },
+      {
+        "event_title": "The Will to Protect!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nPower +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Winning Ticket (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30033-winning-ticket",
+    "events": [
+      {
+        "event_title": "Full-Power Muscles!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nWinning Ticket bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nWinning Ticket bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Full-Power Racing!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nWinning Ticket bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nWinning Ticket bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yukino Bijin (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30031-yukino-bijin",
+    "events": [
+      {
+        "event_title": "Cozy Memories of Wanko Soba",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nYukino Bijin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) The Class Rep's Intense Crash Course",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nYukino Bijin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) I Wanna Win!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nYukino Bijin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "For a Spiffy Concert",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15\nYukino Bijin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Aiming for the City Spots",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15\nYukino Bijin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kitasan Black (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30028-kitasan-black",
+    "events": [
+      {
+        "event_title": "Chasing Brilliance",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nMood +1\nKitasan Black bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5/+10\nStraightaway Adept\nhint +1/+3\nKitasan Black bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Paying It Forward",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nMood +1\nKitasan Black bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5/+10\nStraightaway Adept\nhint +1/+3\nKitasan Black bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) We Walk Together",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nMood +1\nKitasan Black bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5/+10\nStraightaway Adept\nhint +1/+3\nKitasan Black bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Ah, Friendship",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nPower +5\nKitasan Black bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nKitasan Black bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Ah, Home Sweet Home",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nPower +5\nKitasan Black bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nKitasan Black bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Satono Diamond (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30029-satono-diamond",
+    "events": [
+      {
+        "event_title": "Hope Bearer",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nSatono Diamond bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy +15\nStamina +10\nSatono Diamond bond +5\nor\nMood -1\nGuts +20"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Diamond Fixation",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nSatono Diamond bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy +15\nStamina +10\nSatono Diamond bond +5\nor\nMood -1\nGuts +20"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Only for You",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nSatono Diamond bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy +15\nStamina +10\nSatono Diamond bond +5\nor\nMood -1\nGuts +20"
+          }
+        ]
+      },
+      {
+        "event_title": "I Love New Things!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nSatono Diamond bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +20\nSatono Diamond bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "I Love Complicated Things!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nSatono Diamond bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +20\nSatono Diamond bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matikanetannhauser (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30030-matikanetannhauser",
+    "events": [
+      {
+        "event_title": "Seeking Uniqueness!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nMatikanetannhauser bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10/+30\nMatikanetannhauser bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Becoming a Prankster",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nMatikanetannhauser bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10/+30\nMatikanetannhauser bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Unique Running?",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nMatikanetannhauser bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10/+30\nMatikanetannhauser bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Just Your Typical Hard Work!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10\nMatikanetannhauser bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +10\nMatikanetannhauser bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Just A Typical Accident?!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10\nMatikanetannhauser bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +10\nMatikanetannhauser bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mejiro Palmer (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30027-mejiro-palmer",
+    "events": [
+      {
+        "event_title": "Run Away to First Base",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -15\nStamina +10\nGuts +10\nMejiro Palmer bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -15\nGuts +10\nWisdom +10\nMejiro Palmer bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Runaway Romance",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -15\nStamina +10\nGuts +10\nMejiro Palmer bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -15\nGuts +10\nWisdom +10\nMejiro Palmer bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Optimistic Escapism: Never Give Up!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -15\nStamina +10\nGuts +10\nMejiro Palmer bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -15\nGuts +10\nWisdom +10\nMejiro Palmer bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "An Inescapable Choice?",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -15\nGuts +20\nMejiro Palmer bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nMejiro Palmer bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Optimistic Escapism",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -15\nGuts +20\nMejiro Palmer bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nMejiro Palmer bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twin Turbo (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30026-twin-turbo",
+    "events": [
+      {
+        "event_title": "I'm Not Afraid!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Randomly either\nSpeed +10\nTwin Turbo bond +5\nor\nEnergy -10\nSpeed +10\nEvent chain ended"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Can't Catch Me!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Randomly either\nSpeed +10\nTwin Turbo bond +5\nor\nEnergy -10\nSpeed +10\nEvent chain ended"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Turbo Is Strong!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Randomly either\nSpeed +10\nTwin Turbo bond +5\nor\nEnergy -10\nSpeed +10\nEvent chain ended"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "Just Start Running!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSpeed +20"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nPower +20"
+          }
+        ]
+      },
+      {
+        "event_title": "I'm All Fired Up!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSpeed +20"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nPower +20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oguri Cap (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30024-oguri-cap",
+    "events": [
+      {
+        "event_title": "A Plushie...",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nSkill points +10\nStamina to Spare\nhint +1\nOguri Cap bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +5\nSkill points +10\nOuter Swell\nhint +1\nOguri Cap bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) How Should I Respond?",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nSkill points +10\nStamina to Spare\nhint +1\nOguri Cap bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +5\nSkill points +10\nOuter Swell\nhint +1\nOguri Cap bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) What I Want to Say",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nSkill points +10\nStamina to Spare\nhint +1\nOguri Cap bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +5\nSkill points +10\nOuter Swell\nhint +1\nOguri Cap bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "How Should I Respond?",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nPower +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15"
+          }
+        ]
+      },
+      {
+        "event_title": "Conquering the Crowds",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nPower +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Special Week (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30025-special-week",
+    "events": [
+      {
+        "event_title": "Someday, I'll Be Just Like Her!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nSpeed +15\nSpecial Week bond +5"
+          },
+          {
+            "option": "Middle Option",
+            "result": "Energy -10\nSkill points +20\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nShake It Out\nhint +1\nSpecial Week bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Just a Little Closer",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nSpeed +15\nSpecial Week bond +5"
+          },
+          {
+            "option": "Middle Option",
+            "result": "Energy -10\nSkill points +20\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nShake It Out\nhint +1\nSpecial Week bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Forms of Aspiration",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nSpeed +15\nSpecial Week bond +5"
+          },
+          {
+            "option": "Middle Option",
+            "result": "Energy -10\nSkill points +20\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nShake It Out\nhint +1\nSpecial Week bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Watch Where You're Going!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Extra Tank\nhint +1\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nSpecial Week bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "So Many Options!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Extra Tank\nhint +1\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nSpecial Week bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Special Week (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30001-special-week",
+    "events": [
+      {
+        "event_title": "Dance in Cleats!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nSpeed +5\nStamina +5\nGuts +10\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nWisdom +10\nSpecial Week bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) A Roller Coaster of Feelings!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nSpeed +5\nStamina +5\nGuts +10\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nWisdom +10\nSpecial Week bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Our Audience",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nSpeed +5\nStamina +5\nGuts +10\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nWisdom +10\nSpecial Week bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "Watch Where You're Going!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Extra Tank\nhint +1\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nSpecial Week bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "So Many Options!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Extra Tank\nhint +1\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nSpecial Week bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silence Suzuka (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30002-silence-suzuka",
+    "events": [
+      {
+        "event_title": "On and On",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10\nStamina +5\nSilence Suzuka bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +15\nSilence Suzuka bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "What Should I Do?",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10\nStamina +5\nSilence Suzuka bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +15\nSilence Suzuka bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tokai Teio (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30003-tokai-teio",
+    "events": [
+      {
+        "event_title": "My Way, Or...",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nSkill points +15\nTokai Teio bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nTokai Teio bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "My Weapon",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nSkill points +15\nTokai Teio bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nTokai Teio bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gold Ship (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30004-gold-ship",
+    "events": [
+      {
+        "event_title": "Adventurer Gold Ship",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +15\nGold Ship bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +10\nSkill points +15\nGold Ship bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Revive the Brand! Golshi's Yakisoba",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +15\nGold Ship bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +10\nSkill points +15\nGold Ship bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vodka (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30005-vodka",
+    "events": [
+      {
+        "event_title": "The Coolest Line",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nVodka bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nVodka bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Enemies on Main Street",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nVodka bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nVodka bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grass Wonder (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30006-grass-wonder",
+    "events": [
+      {
+        "event_title": "Quiet Passion",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nGrass Wonder bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy -10\nPower +5\nGuts +5\nWisdom +5\nGrass Wonder bond +5\nor\nPower +5\nGuts +5\nWisdom +10\nGrass Wonder bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) A Moment's Respite",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nGrass Wonder bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy -10\nPower +5\nGuts +5\nWisdom +5\nGrass Wonder bond +5\nor\nPower +5\nGuts +5\nWisdom +10\nGrass Wonder bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Hidden Petals",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nGrass Wonder bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy -10\nPower +5\nGuts +5\nWisdom +5\nGrass Wonder bond +5\nor\nPower +5\nGuts +5\nWisdom +10\nGrass Wonder bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Library Vexation",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nGrass Wonder bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +5\nWisdom +5\nGrass Wonder bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Friendly Daytime Discussion",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nGrass Wonder bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +5\nWisdom +5\nGrass Wonder bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "El Condor Pasa (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30007-el-condor-pasa",
+    "events": [
+      {
+        "event_title": "World Class",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +30\nEl Condor Pasa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina to Spare\nhint +1\nEl Condor Pasa bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Uma-me",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +30\nEl Condor Pasa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina to Spare\nhint +1\nEl Condor Pasa bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Luchadora El!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +30\nEl Condor Pasa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina to Spare\nhint +1\nEl Condor Pasa bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "Blazing Fire!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +10\nEl Condor Pasa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nPower +20\nEl Condor Pasa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Secret Notebook!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +10\nEl Condor Pasa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nPower +20\nEl Condor Pasa bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Seiun Sky (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30008-seiun-sky",
+    "events": [
+      {
+        "event_title": "Be Strategic ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nSeiun Sky bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Skill points +30\nSecond Wind\nhint +1\nSeiun Sky bond -5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Beware of the Trap",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nSeiun Sky bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Skill points +30\nSecond Wind\nhint +1\nSeiun Sky bond -5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) It's All to Win",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nSeiun Sky bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Skill points +30\nSecond Wind\nhint +1\nSeiun Sky bond -5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "Recruiting Cat Catchers",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nSeiun Sky bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +15\nStamina +5\nSeiun Sky bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Recruiting Advisors",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nSeiun Sky bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +15\nStamina +5\nSeiun Sky bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tamamo Cross (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30009-tamamo-cross",
+    "events": [
+      {
+        "event_title": "Tamamo's School Tour",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nTamamo Cross bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +5\nGuts +5\nTamamo Cross bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Battle I Can't Lose!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nTamamo Cross bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +5\nGuts +5\nTamamo Cross bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fine Motion (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30010-fine-motion",
+    "events": [
+      {
+        "event_title": "Lovely Training Weather ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +20\nFine Motion bond +5"
+          },
+          {
+            "option": "Middle Option",
+            "result": "Speed +10\nStamina +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Get\nPractice Perfect ○\nstatus\nFine Motion bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Lovely Concert Weather ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +20\nFine Motion bond +5"
+          },
+          {
+            "option": "Middle Option",
+            "result": "Speed +10\nStamina +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Get\nPractice Perfect ○\nstatus\nFine Motion bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Lovely Racing Weather ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +20\nFine Motion bond +5"
+          },
+          {
+            "option": "Middle Option",
+            "result": "Speed +10\nStamina +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Get\nPractice Perfect ○\nstatus\nFine Motion bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Wonderful New Shoes",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nSkill points +10\nFine Motion bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +5\nSkill points +20\nFine Motion bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Reminiscent Clover",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nSkill points +10\nFine Motion bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +5\nSkill points +20\nFine Motion bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ines Fujin (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30011-ines-fujin",
+    "events": [
+      {
+        "event_title": "It's a Game of Tag!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nInes Fujin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Fast-Paced\nhint +1\nInes Fujin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Ten Minutes Left!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nInes Fujin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Fast-Paced\nhint +1\nInes Fujin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Winning Ticket (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30012-winning-ticket",
+    "events": [
+      {
+        "event_title": "Full-Power Muscles!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nWinning Ticket bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nWinning Ticket bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Full-Power Racing!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nWinning Ticket bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nWinning Ticket bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Air Shakur (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30013-air-shakur",
+    "events": [
+      {
+        "event_title": "//Verification Required",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nGuts +5\nAir Shakur bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +5\nGuts +10\nAir Shakur bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "//Absolute Desire",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nGuts +5\nAir Shakur bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +5\nGuts +10\nAir Shakur bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gold City (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30014-gold-city",
+    "events": [
+      {
+        "event_title": "08:36 / Crap, I Overslept",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSkill points +45\nGold City bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nGold City bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "13:12 / Lunch Break, Gotta Get Myself Together",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSkill points +45\nGold City bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nGold City bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sakura Bakushin O (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30015-sakura-bakushin-o",
+    "events": [
+      {
+        "event_title": "Genius Efficiency!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +15\nSakura Bakushin O bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +10\nSakura Bakushin O bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Enough to Break into a Dash!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +15\nSakura Bakushin O bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +10\nSakura Bakushin O bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Super Creek (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30016-super-creek",
+    "events": [
+      {
+        "event_title": "Leave it to Me to Help Out! ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nSuper Creek bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nSuper Creek bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Leave it to Me to Be Considerate! ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nSuper Creek bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nSuper Creek bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Smart Falcon (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30017-smart-falcon",
+    "events": [
+      {
+        "event_title": "Always on Stage ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nSmart Falcon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +25\nFocus\nhint +1\nSmart Falcon bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Shining Always and Everywhere ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nSmart Falcon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +25\nFocus\nhint +1\nSmart Falcon bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) My Umadol Way ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nSmart Falcon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +25\nFocus\nhint +1\nSmart Falcon bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "Chants Are the Life of a Concert ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nGuts +10\nSmart Falcon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +15\nSmart Falcon bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "If I'm Cute, Come to My Show! ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nGuts +10\nSmart Falcon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +15\nSmart Falcon bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nishino Flower (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30018-nishino-flower",
+    "events": [
+      {
+        "event_title": "How I Can Help",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nWisdom +20\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +5\nSkill points +15"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Aspiring to Adulthood",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nWisdom +20\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +5\nSkill points +15"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) What's Important!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nWisdom +20\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +5\nSkill points +15"
+          }
+        ]
+      },
+      {
+        "event_title": "Warmth, Love, and Lunch",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Get\nCharming ○\nstatus\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nNishino Flower bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Let's Bloom Beautifully ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Get\nCharming ○\nstatus\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nNishino Flower bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Haru Urara (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30019-haru-urara",
+    "events": [
+      {
+        "event_title": "Urara's ☆ Study Review",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nHaru Urara bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nWisdom +5\nHaru Urara bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Urara's ☆ Long Shot Dash!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nHaru Urara bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nWisdom +5\nHaru Urara bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biko Pegasus (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30020-biko-pegasus",
+    "events": [
+      {
+        "event_title": "A Hero's Woes",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nBiko Pegasus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +5\nPower +5\nBiko Pegasus bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Preparing My Special Move!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nBiko Pegasus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +5\nPower +5\nBiko Pegasus bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tazuna Hayakawa (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30021-tazuna-hayakawa",
+    "events": [
+      {
+        "event_title": "Milk with a Chance of Apples",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Inexplicable Speed",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Memories of Cinema",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯❯) A Sigh and a Bandage",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯❯❯) A Surprise Breather",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "My Chosen Way of Life",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +14\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nWisdom +6\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Enthusiastic Pair",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +14\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nWisdom +6\nTazuna Hayakawa bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mejiro McQueen (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30022-mejiro-mcqueen",
+    "events": [
+      {
+        "event_title": "To Maintain My Weight",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nStamina +15\nMejiro McQueen bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nStamina +5\nMejiro McQueen bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "To Reach the Greatest Heights",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nStamina +15\nMejiro McQueen bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nStamina +5\nMejiro McQueen bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rice Shower (SSR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/30023-rice-shower",
+    "events": [
+      {
+        "event_title": "A Page of Flower Shop Assistance",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +2\nRice Shower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nRice Shower bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Page About Cloudy Weather",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +2\nRice Shower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nRice Shower bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zenno Rob Roy (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20028-zenno-rob-roy",
+    "events": [
+      {
+        "event_title": "The Bookworm and the Magical Girl",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nWisdom +5\nZenno Rob Roy bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nPower +10\nZenno Rob Roy bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Someday, I'll Be the Main Character",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nWisdom +5\nZenno Rob Roy bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nPower +10\nZenno Rob Roy bond +5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "Book-lover Quirks",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nWisdom +5\nZenno Rob Roy bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nPower +5\nZenno Rob Roy bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Tale Entrusted",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nWisdom +5\nZenno Rob Roy bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nPower +5\nZenno Rob Roy bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nishino Flower (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20027-nishino-flower",
+    "events": [
+      {
+        "event_title": "I Want You to Rest!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nStraightaway Adept\nhint +1\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +5\nStraightaway Acceleration\nhint +1\nNishino Flower bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) I Want to Say Thank You!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nStraightaway Adept\nhint +1\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +5\nStraightaway Acceleration\nhint +1\nNishino Flower bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Warmth, Love, and Lunch",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Get\nCharming ○\nstatus\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nNishino Flower bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Let's Bloom Beautifully ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Get\nCharming ○\nstatus\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nNishino Flower bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nice Nature (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20026-nice-nature",
+    "events": [
+      {
+        "event_title": "Chasing Their Backs",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nWisdom +3\nNice Nature bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Nice Nature bond +20"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Wind at My Back",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nWisdom +3\nNice Nature bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Nice Nature bond +20"
+          }
+        ]
+      },
+      {
+        "event_title": "Not like Meow",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +20\nNice Nature bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nNice Nature bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(Delicious) Burden",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +20\nNice Nature bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nNice Nature bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ikuno Dictus (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20025-ikuno-dictus",
+    "events": [
+      {
+        "event_title": "Ikuno-Style Friendship",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +15\nFrenzied Front Runners\nhint +3\nIkuno Dictus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +15\nFrenzied End Closers\nhint +3\nIkuno Dictus bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Ikuno-Style Support",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +15\nFrenzied Front Runners\nhint +3\nIkuno Dictus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +15\nFrenzied End Closers\nhint +3\nIkuno Dictus bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Ikuno-Style Flawless Method",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nIkuno Dictus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Skill points +30\nIkuno Dictus bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Ikuno-Style Management",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nIkuno Dictus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Skill points +30\nIkuno Dictus bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Daitaku Helios (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20024-daitaku-helios",
+    "events": [
+      {
+        "event_title": "#BFF #Party!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nDaitaku Helios bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +10\nDaitaku Helios bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) #LOL #Party! #Round2",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nDaitaku Helios bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +10\nDaitaku Helios bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Encounter With the Sun ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nDaitaku Helios bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Get\nHot Topic\nstatus\nDaitaku Helios bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Smiles Forever",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nDaitaku Helios bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Get\nHot Topic\nstatus\nDaitaku Helios bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sweep Tosho (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20023-sweep-tosho",
+    "events": [
+      {
+        "event_title": "Some Very Green Friends",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nSkill points +10\nLucky Seven\nhint +1\nSweep Tosho bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood -1\nMaverick ○\nhint +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Premeditated Mischief",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nSkill points +10\nLucky Seven\nhint +1\nSweep Tosho bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood -1\nMaverick ○\nhint +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Miracle ☆ Escape!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nSweep Tosho bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +20\nSweep Tosho bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Wonderful ☆ Mistake!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nSweep Tosho bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +20\nSweep Tosho bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fuji Kiseki (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20001-fuji-kiseki",
+    "events": [
+      {
+        "event_title": "Sleight of Hand",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +15\nFuji Kiseki bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nFuji Kiseki bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Misdirection",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +15\nFuji Kiseki bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nFuji Kiseki bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Daiwa Scarlet (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20002-daiwa-scarlet",
+    "events": [
+      {
+        "event_title": "I'm Going to Win Tomorrow!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nDaiwa Scarlet bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nDaiwa Scarlet bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "This Is Nothing!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nDaiwa Scarlet bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nDaiwa Scarlet bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hishi Amazon (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20003-hishi-amazon",
+    "events": [
+      {
+        "event_title": "Hishiama's Struggles: Problem Children",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nHishi Amazon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +10\nGuts +5\nHishi Amazon bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Hishiama's Struggles: Final Stretch",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nHishi Amazon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +10\nGuts +5\nHishi Amazon bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Air Groove (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20004-air-groove",
+    "events": [
+      {
+        "event_title": "Strict but Gracious",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Go with the Flow\nhint +1\nAir Groove bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +10"
+          }
+        ]
+      },
+      {
+        "event_title": "Agile but Strong",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Go with the Flow\nhint +1\nAir Groove bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agnes Digital (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20005-agnes-digital",
+    "events": [
+      {
+        "event_title": "Umamusume Deficiency!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nSpeed +5\nAgnes Digital bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +5\nAgnes Digital bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Heavy Romance",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nSpeed +5\nAgnes Digital bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +5\nAgnes Digital bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biwa Hayahide (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20006-biwa-hayahide",
+    "events": [
+      {
+        "event_title": "Last-Minute Modal Theory",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +15\nBiwa Hayahide bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +10\nSkill points +15\nBiwa Hayahide bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Step-Out-of-Your-Comfort-Zone Theory",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +15\nBiwa Hayahide bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +10\nSkill points +15\nBiwa Hayahide bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mayano Top Gun (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20007-mayano-top-gun",
+    "events": [
+      {
+        "event_title": "Snack Advice for Mayano!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nGuts +5\nMayano Top Gun bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nMayano Top Gun bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Fashion Advice for Mayano!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nGuts +5\nMayano Top Gun bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nMayano Top Gun bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Manhattan Cafe (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20008-manhattan-cafe",
+    "events": [
+      {
+        "event_title": "Solo Nighttime Run",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +10\nManhattan Cafe bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nStamina +5\nManhattan Cafe bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Taste of Silence",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +10\nManhattan Cafe bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nStamina +5\nManhattan Cafe bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mihono Bourbon (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20009-mihono-bourbon",
+    "events": [
+      {
+        "event_title": "I'm Not a Cyborg",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nSkill points +15\nMihono Bourbon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nCorner Recovery ○\nhint +1\n(random) Mihono Bourbon bond -5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) New Values Installed",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nSkill points +15\nMihono Bourbon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nCorner Recovery ○\nhint +1\n(random) Mihono Bourbon bond -5\nEvent chain ended"
+          }
+        ]
+      },
+      {
+        "event_title": "Do No Harm",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nStamina +5\nPower +15\nMihono Bourbon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nMihono Bourbon bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Orders Must Be Followed",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nStamina +5\nPower +15\nMihono Bourbon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nMihono Bourbon bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mejiro Ryan (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20010-mejiro-ryan",
+    "events": [
+      {
+        "event_title": "My Muscles and Me, Onward to Tomorrow!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nPower +15\nMejiro Ryan bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nPower +5\nMejiro Ryan bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "It's Not Like I Like Romance!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nPower +15\nMejiro Ryan bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nPower +5\nMejiro Ryan bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yukino Bijin (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20011-yukino-bijin",
+    "events": [
+      {
+        "event_title": "For a Spiffy Concert",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15\nYukino Bijin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Aiming for the City Spots",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15\nYukino Bijin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agnes Tachyon (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20012-agnes-tachyon",
+    "events": [
+      {
+        "event_title": "The Correlation between Sleep and Efficiency",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nWisdom +5\nAgnes Tachyon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +10\nAgnes Tachyon bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Happenstance Introduced Through Intervention",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nWisdom +5\nAgnes Tachyon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +10\nAgnes Tachyon bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eishin Flash (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20013-eishin-flash",
+    "events": [
+      {
+        "event_title": "Unforeseen Lunch",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nEishin Flash bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nGuts +5\nEishin Flash bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Responding to the Unforeseen",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nEishin Flash bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nGuts +5\nEishin Flash bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Narita Taishin (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20014-narita-taishin",
+    "events": [
+      {
+        "event_title": "Just Leave Me Alone",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nNarita Taishin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nNarita Taishin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Just Don't Bother Me",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nNarita Taishin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nNarita Taishin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marvelous Sunday (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20015-marvelous-sunday",
+    "events": [
+      {
+        "event_title": "Marvelous, No Question ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nMarvelous Sunday bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSpeed +5\nMarvelous Sunday bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "How To Be More Marvelous ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nMarvelous Sunday bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSpeed +5\nMarvelous Sunday bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matikanefukukitaru (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20016-matikanefukukitaru",
+    "events": [
+      {
+        "event_title": "Spirits' Lost and Found",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Skill points +45\nMatikanefukukitaru bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy +10\nMood +1\nRight-Handed ○\nhint +3\nMatikanefukukitaru bond +5\nor\nEnergy -20\nRight-Handed ○\nhint +1\nMatikanefukukitaru bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Guidance and Friends",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Skill points +45\nMatikanefukukitaru bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy +10\nMood +1\nRight-Handed ○\nhint +3\nMatikanefukukitaru bond +5\nor\nEnergy -20\nRight-Handed ○\nhint +1\nMatikanefukukitaru bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Maximum Spirituality",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +15\nMatikanefukukitaru bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +5\nStamina +5\nPower +5\nMatikanefukukitaru bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "When Piety and Kindness Intersect",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +15\nMatikanefukukitaru bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +5\nStamina +5\nPower +5\nMatikanefukukitaru bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Meisho Doto (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20017-meisho-doto",
+    "events": [
+      {
+        "event_title": "What I'm Destined For...",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nGuts +5\nMeisho Doto bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy -10\nWisdom +5\nor\nMaximum Energy +4\nMood +1\nGuts +5\nWisdom +5\nMeisho Doto bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) What I'm Looking For...",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nGuts +5\nMeisho Doto bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nEnergy -10\nWisdom +5\nor\nMaximum Energy +4\nMood +1\nGuts +5\nWisdom +5\nMeisho Doto bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "I... Will Change",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nMood +1\nMeisho Doto bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nMeisho Doto bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Please... Buy Some Carrots",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nMood +1\nMeisho Doto bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nMeisho Doto bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mejiro Dober (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20018-mejiro-dober",
+    "events": [
+      {
+        "event_title": "Give It a Try",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nMejiro Dober bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nMejiro Dober bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Hope She'll Like It...",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nMejiro Dober bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nMejiro Dober bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nice Nature (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20019-nice-nature",
+    "events": [
+      {
+        "event_title": "Not like Meow",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +20\nNice Nature bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nNice Nature bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(Delicious) Burden",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +20\nNice Nature bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nNice Nature bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "King Halo (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20020-king-halo",
+    "events": [
+      {
+        "event_title": "You May Socialize With Me!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -20\nSpeed +10\nPower +10\nWisdom +5\nKing Halo bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood -1\nGuts +25\nKing Halo bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "You May Advise Me!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -20\nSpeed +10\nPower +10\nWisdom +5\nKing Halo bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood -1\nGuts +25\nKing Halo bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aoi Kiryuin (SR) Support Card",
+    "url": "https://gametora.com/umamusume/supports/20021-aoi-kiryuin",
+    "events": [
+      {
+        "event_title": "Studying with Your Body!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +56\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) How I Play at the Park",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +56\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Reckless Training",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +56\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯❯) The Joy of Respect",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +56\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯❯❯) Chasing Dreams",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +35\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +56\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Trainer Tip: Always Improve Your Coaching",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +14\nSkill points +18\nAoi Kiryuin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +6\nWisdom +6\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "The Search for a Hobby",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +14\nSkill points +18\nAoi Kiryuin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +6\nWisdom +6\nAoi Kiryuin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yaeno Muteki (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10058-yaeno-muteki",
+    "events": [
+      {
+        "event_title": "Firm and Plain, Yet Close to Virtue",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nPower +5"
+          }
+        ]
+      },
+      {
+        "event_title": "The Will to Protect!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nPower +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zenno Rob Roy (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10059-zenno-rob-roy",
+    "events": [
+      {
+        "event_title": "Book-lover Quirks",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nWisdom +5\nZenno Rob Roy bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nPower +5\nZenno Rob Roy bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Tale Entrusted",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nWisdom +5\nZenno Rob Roy bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nPower +5\nZenno Rob Roy bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kitasan Black (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10055-kitasan-black",
+    "events": [
+      {
+        "event_title": "Ah, Friendship",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nPower +5\nKitasan Black bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nKitasan Black bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Ah, Home Sweet Home",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nPower +5\nKitasan Black bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nKitasan Black bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Satono Diamond (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10056-satono-diamond",
+    "events": [
+      {
+        "event_title": "I Love New Things!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nSatono Diamond bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +20\nSatono Diamond bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "I Love Complicated Things!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nSatono Diamond bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +20\nSatono Diamond bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matikanetannhauser (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10057-matikanetannhauser",
+    "events": [
+      {
+        "event_title": "Just Your Typical Hard Work!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10\nMatikanetannhauser bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +10\nMatikanetannhauser bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Just A Typical Accident?!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10\nMatikanetannhauser bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +10\nMatikanetannhauser bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ikuno Dictus (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10053-ikuno-dictus",
+    "events": [
+      {
+        "event_title": "Ikuno-Style Flawless Method",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nIkuno Dictus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Skill points +30\nIkuno Dictus bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Ikuno-Style Management",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nIkuno Dictus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Skill points +30\nIkuno Dictus bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mejiro Palmer (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10054-mejiro-palmer",
+    "events": [
+      {
+        "event_title": "An Inescapable Choice?",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -15\nGuts +20\nMejiro Palmer bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nMejiro Palmer bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Optimistic Escapism",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -15\nGuts +20\nMejiro Palmer bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nMejiro Palmer bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Twin Turbo (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10051-twin-turbo",
+    "events": [
+      {
+        "event_title": "Just Start Running!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSpeed +20"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nPower +20"
+          }
+        ]
+      },
+      {
+        "event_title": "I'm All Fired Up!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSpeed +20"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nPower +20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Daitaku Helios (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10052-daitaku-helios",
+    "events": [
+      {
+        "event_title": "Encounter With the Sun ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nDaitaku Helios bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Get\nHot Topic\nstatus\nDaitaku Helios bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Smiles Forever",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nDaitaku Helios bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Get\nHot Topic\nstatus\nDaitaku Helios bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sweep Tosho (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10050-sweep-tosho",
+    "events": [
+      {
+        "event_title": "Miracle ☆ Escape!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nSweep Tosho bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +20\nSweep Tosho bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Wonderful ☆ Mistake!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nSweep Tosho bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +20\nSweep Tosho bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Special Week (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10001-special-week",
+    "events": [
+      {
+        "event_title": "Watch Where You're Going!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Extra Tank\nhint +1\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nSpecial Week bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "So Many Options!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Extra Tank\nhint +1\nSpecial Week bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nSpecial Week bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silence Suzuka (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10002-silence-suzuka",
+    "events": [
+      {
+        "event_title": "On and On",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10\nStamina +5\nSilence Suzuka bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +15\nSilence Suzuka bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "What Should I Do?",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10\nStamina +5\nSilence Suzuka bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +15\nSilence Suzuka bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tokai Teio (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10003-tokai-teio",
+    "events": [
+      {
+        "event_title": "My Way, Or...",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nSkill points +15\nTokai Teio bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nTokai Teio bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "My Weapon",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +1\nSkill points +15\nTokai Teio bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nTokai Teio bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maruzensky (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10004-maruzensky",
+    "events": [
+      {
+        "event_title": "For an Adorable Younger Student",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Early Lead\nhint +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +5\nSpeed +10"
+          }
+        ]
+      },
+      {
+        "event_title": "Drive Destination",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Early Lead\nhint +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +5\nSpeed +10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oguri Cap (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10005-oguri-cap",
+    "events": [
+      {
+        "event_title": "How Should I Respond?",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nPower +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15"
+          }
+        ]
+      },
+      {
+        "event_title": "Conquering the Crowds",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nPower +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gold Ship (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10006-gold-ship",
+    "events": [
+      {
+        "event_title": "Adventurer Gold Ship",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +15\nGold Ship bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +10\nSkill points +15\nGold Ship bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Revive the Brand! Golshi's Yakisoba",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +15\nGold Ship bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +10\nSkill points +15\nGold Ship bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vodka (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10007-vodka",
+    "events": [
+      {
+        "event_title": "The Coolest Line",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nVodka bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nVodka bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Enemies on Main Street",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +10\nVodka bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nVodka bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taiki Shuttle (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10008-taiki-shuttle",
+    "events": [
+      {
+        "event_title": "Yes! Let's Hug ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Yeehaw! Party Tonight ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grass Wonder (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10009-grass-wonder",
+    "events": [
+      {
+        "event_title": "Library Vexation",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nGrass Wonder bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +5\nWisdom +5\nGrass Wonder bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Friendly Daytime Discussion",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nGrass Wonder bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +5\nWisdom +5\nGrass Wonder bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mejiro McQueen (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10010-mejiro-mcqueen",
+    "events": [
+      {
+        "event_title": "To Maintain My Weight",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nStamina +15\nMejiro McQueen bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nStamina +5\nMejiro McQueen bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "To Reach the Greatest Heights",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nStamina +15\nMejiro McQueen bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nStamina +5\nMejiro McQueen bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "El Condor Pasa (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10011-el-condor-pasa",
+    "events": [
+      {
+        "event_title": "Blazing Fire!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +10\nEl Condor Pasa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nPower +20\nEl Condor Pasa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Secret Notebook!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +10\nEl Condor Pasa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nPower +20\nEl Condor Pasa bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TM Opera O (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10012-tm-opera-o",
+    "events": [
+      {
+        "event_title": "Etude to Victory",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSpeed +5\nSkill points +30"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15"
+          }
+        ]
+      },
+      {
+        "event_title": "Beyond Our Limited Time",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSpeed +5\nSkill points +30"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Symboli Rudolf (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10013-symboli-rudolf",
+    "events": [
+      {
+        "event_title": "The Emperor's Encouragement",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSkill points +30"
+          }
+        ]
+      },
+      {
+        "event_title": "The Student Council President's Thoughtfulness",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +10"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSkill points +30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Seiun Sky (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10014-seiun-sky",
+    "events": [
+      {
+        "event_title": "Recruiting Cat Catchers",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nSeiun Sky bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +15\nStamina +5\nSeiun Sky bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Recruiting Advisors",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nSeiun Sky bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +15\nStamina +5\nSeiun Sky bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rice Shower (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10015-rice-shower",
+    "events": [
+      {
+        "event_title": "A Page of Flower Shop Assistance",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +2\nRice Shower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nRice Shower bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Page About Cloudy Weather",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood +2\nRice Shower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nRice Shower bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Winning Ticket (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10016-winning-ticket",
+    "events": [
+      {
+        "event_title": "Full-Power Muscles!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nWinning Ticket bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nWinning Ticket bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Full-Power Racing!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nWinning Ticket bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nWinning Ticket bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gold City (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10017-gold-city",
+    "events": [
+      {
+        "event_title": "08:36 / Crap, I Overslept",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSkill points +45\nGold City bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nGold City bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "13:12 / Lunch Break, Gotta Get Myself Together",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Mood -1\nSkill points +45\nGold City bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nGold City bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sakura Bakushin O (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10018-sakura-bakushin-o",
+    "events": [
+      {
+        "event_title": "Genius Efficiency!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +15\nSakura Bakushin O bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +10\nSakura Bakushin O bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Enough to Break into a Dash!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +15\nSakura Bakushin O bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +10\nSakura Bakushin O bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Super Creek (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10019-super-creek",
+    "events": [
+      {
+        "event_title": "Leave it to Me to Help Out! ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nSuper Creek bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nSuper Creek bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Leave it to Me to Be Considerate! ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nSuper Creek bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nSuper Creek bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Haru Urara (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10020-haru-urara",
+    "events": [
+      {
+        "event_title": "Urara's ☆ Study Review",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nHaru Urara bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nWisdom +5\nHaru Urara bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Urara's ☆ Long Shot Dash!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nHaru Urara bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nWisdom +5\nHaru Urara bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tazuna Hayakawa (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10021-tazuna-hayakawa",
+    "events": [
+      {
+        "event_title": "Milk with a Chance of Apples",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) Inexplicable Speed",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Memories of Cinema",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯❯) A Sigh and a Bandage",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯❯❯) A Surprise Breather",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nStamina +6\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +12\nGuts +12\nMood +1\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "My Chosen Way of Life",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +13\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nWisdom +6\nTazuna Hayakawa bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Enthusiastic Pair",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +13\nMood +1\nTazuna Hayakawa bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nWisdom +6\nTazuna Hayakawa bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aoi Kiryuin (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10022-aoi-kiryuin",
+    "events": [
+      {
+        "event_title": "Studying with Your Body!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +54\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯) How I Play at the Park",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +54\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯) Reckless Training",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +54\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯❯) The Joy of Respect",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +54\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(❯❯❯❯❯) Chasing Dreams",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +32\nWisdom +6\nAoi Kiryuin bond +5\n(random) Mood +1"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Randomly either\nSkill points +18\nAoi Kiryuin bond +5\nor\nSpeed +6\nSkill points +54\nMood +1\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Trainer Tip: Always Improve Your Coaching",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +13\nSkill points +18\nAoi Kiryuin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +6\nWisdom +6\nAoi Kiryuin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "The Search for a Hobby",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +13\nSkill points +18\nAoi Kiryuin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +6\nWisdom +6\nAoi Kiryuin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Daiwa Scarlet (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10023-daiwa-scarlet",
+    "events": [
+      {
+        "event_title": "I'm Going to Win Tomorrow!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nDaiwa Scarlet bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nDaiwa Scarlet bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "This Is Nothing!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nDaiwa Scarlet bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nDaiwa Scarlet bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hishi Amazon (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10024-hishi-amazon",
+    "events": [
+      {
+        "event_title": "Hishiama's Struggles: Problem Children",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nHishi Amazon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +10\nGuts +5\nHishi Amazon bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Hishiama's Struggles: Final Stretch",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nWisdom +5\nHishi Amazon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +10\nGuts +5\nHishi Amazon bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Air Groove (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10025-air-groove",
+    "events": [
+      {
+        "event_title": "Strict but Gracious",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Go with the Flow\nhint +1\nAir Groove bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +10"
+          }
+        ]
+      },
+      {
+        "event_title": "Agile but Strong",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Go with the Flow\nhint +1\nAir Groove bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agnes Digital (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10026-agnes-digital",
+    "events": [
+      {
+        "event_title": "Umamusume Deficiency!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nSpeed +5\nAgnes Digital bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +5\nAgnes Digital bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Heavy Romance",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +5\nSpeed +5\nAgnes Digital bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nPower +5\nAgnes Digital bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tamamo Cross (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10027-tamamo-cross",
+    "events": [
+      {
+        "event_title": "Tamamo's School Tour",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nTamamo Cross bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +5\nGuts +5\nTamamo Cross bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Battle I Can't Lose!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +10\nTamamo Cross bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +5\nGuts +5\nTamamo Cross bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fine Motion (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10028-fine-motion",
+    "events": [
+      {
+        "event_title": "Wonderful New Shoes",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nSkill points +10\nFine Motion bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +5\nSkill points +20\nFine Motion bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Reminiscent Clover",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Speed +5\nSkill points +10\nFine Motion bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +5\nSkill points +20\nFine Motion bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biwa Hayahide (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10029-biwa-hayahide",
+    "events": [
+      {
+        "event_title": "Last-Minute Modal Theory",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +15\nBiwa Hayahide bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +10\nSkill points +15\nBiwa Hayahide bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Step-Out-of-Your-Comfort-Zone Theory",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +15\nBiwa Hayahide bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +10\nSkill points +15\nBiwa Hayahide bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mayano Top Gun (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10030-mayano-top-gun",
+    "events": [
+      {
+        "event_title": "Snack Advice for Mayano!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nGuts +5\nMayano Top Gun bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nMayano Top Gun bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Fashion Advice for Mayano!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nGuts +5\nMayano Top Gun bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Stamina +10\nMayano Top Gun bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Manhattan Cafe (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10031-manhattan-cafe",
+    "events": [
+      {
+        "event_title": "Solo Nighttime Run",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +10\nManhattan Cafe bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nStamina +5\nManhattan Cafe bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "A Taste of Silence",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +10\nManhattan Cafe bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nStamina +5\nManhattan Cafe bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mihono Bourbon (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10032-mihono-bourbon",
+    "events": [
+      {
+        "event_title": "Do No Harm",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nStamina +5\nPower +15\nMihono Bourbon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nMihono Bourbon bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Orders Must Be Followed",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nStamina +5\nPower +15\nMihono Bourbon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nMihono Bourbon bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mejiro Ryan (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10033-mejiro-ryan",
+    "events": [
+      {
+        "event_title": "My Muscles and Me, Onward to Tomorrow!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nPower +15\nMejiro Ryan bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nPower +5\nMejiro Ryan bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "It's Not Like I Like Romance!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -10\nPower +15\nMejiro Ryan bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Maximum Energy +4\nPower +5\nMejiro Ryan bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yukino Bijin (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10034-yukino-bijin",
+    "events": [
+      {
+        "event_title": "For a Spiffy Concert",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15\nYukino Bijin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Aiming for the City Spots",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Guts +10\nYukino Bijin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nGuts +15\nYukino Bijin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ines Fujin (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10035-ines-fujin",
+    "events": [
+      {
+        "event_title": "It's a Game of Tag!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nInes Fujin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Fast-Paced\nhint +1\nInes Fujin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Ten Minutes Left!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nInes Fujin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Fast-Paced\nhint +1\nInes Fujin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agnes Tachyon (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10036-agnes-tachyon",
+    "events": [
+      {
+        "event_title": "The Correlation between Sleep and Efficiency",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nWisdom +5\nAgnes Tachyon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +10\nAgnes Tachyon bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Happenstance Introduced Through Intervention",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Power +5\nWisdom +5\nAgnes Tachyon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +10\nAgnes Tachyon bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Air Shakur (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10037-air-shakur",
+    "events": [
+      {
+        "event_title": "//Verification Required",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nGuts +5\nAir Shakur bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +5\nGuts +10\nAir Shakur bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "//Absolute Desire",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nGuts +5\nAir Shakur bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nStamina +5\nGuts +10\nAir Shakur bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eishin Flash (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10038-eishin-flash",
+    "events": [
+      {
+        "event_title": "Unforeseen Lunch",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nEishin Flash bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nGuts +5\nEishin Flash bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Responding to the Unforeseen",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nEishin Flash bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Speed +5\nGuts +5\nEishin Flash bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Smart Falcon (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10039-smart-falcon",
+    "events": [
+      {
+        "event_title": "Chants Are the Life of a Concert ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nGuts +10\nSmart Falcon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +15\nSmart Falcon bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "If I'm Cute, Come to My Show! ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nGuts +10\nSmart Falcon bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Wisdom +15\nSmart Falcon bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Narita Taishin (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10040-narita-taishin",
+    "events": [
+      {
+        "event_title": "Just Leave Me Alone",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nNarita Taishin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nNarita Taishin bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Just Don't Bother Me",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Stamina +5\nSkill points +15\nNarita Taishin bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nNarita Taishin bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nishino Flower (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10041-nishino-flower",
+    "events": [
+      {
+        "event_title": "Warmth, Love, and Lunch",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Get\nCharming ○\nstatus\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nNishino Flower bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Let's Bloom Beautifully ♪",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Get\nCharming ○\nstatus\nNishino Flower bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +20\nNishino Flower bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biko Pegasus (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10042-biko-pegasus",
+    "events": [
+      {
+        "event_title": "A Hero's Woes",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nBiko Pegasus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +5\nPower +5\nBiko Pegasus bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Preparing My Special Move!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nBiko Pegasus bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +5\nPower +5\nBiko Pegasus bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marvelous Sunday (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10043-marvelous-sunday",
+    "events": [
+      {
+        "event_title": "Marvelous, No Question ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nMarvelous Sunday bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSpeed +5\nMarvelous Sunday bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "How To Be More Marvelous ☆",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nSpeed +5\nMarvelous Sunday bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSpeed +5\nMarvelous Sunday bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matikanefukukitaru (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10044-matikanefukukitaru",
+    "events": [
+      {
+        "event_title": "Maximum Spirituality",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +15\nMatikanefukukitaru bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +5\nStamina +5\nPower +5\nMatikanefukukitaru bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "When Piety and Kindness Intersect",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +15\nMatikanefukukitaru bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy -10\nSpeed +5\nStamina +5\nPower +5\nMatikanefukukitaru bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Meisho Doto (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10045-meisho-doto",
+    "events": [
+      {
+        "event_title": "I... Will Change",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nMood +1\nMeisho Doto bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nMeisho Doto bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Please... Buy Some Carrots",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +10\nMood +1\nMeisho Doto bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Guts +15\nMeisho Doto bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mejiro Dober (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10046-mejiro-dober",
+    "events": [
+      {
+        "event_title": "Give It a Try",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nMejiro Dober bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nMejiro Dober bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Hope She'll Like It...",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +15\nMejiro Dober bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood +1\nSkill points +15\nMejiro Dober bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nice Nature (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10047-nice-nature",
+    "events": [
+      {
+        "event_title": "Not like Meow",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +20\nNice Nature bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nNice Nature bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "(Delicious) Burden",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy +20\nNice Nature bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Energy +10\nWisdom +5\nNice Nature bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "King Halo (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10048-king-halo",
+    "events": [
+      {
+        "event_title": "You May Socialize With Me!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -20\nSpeed +10\nPower +10\nWisdom +5\nKing Halo bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood -1\nGuts +25\nKing Halo bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "You May Advise Me!",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Energy -20\nSpeed +10\nPower +10\nWisdom +5\nKing Halo bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Mood -1\nGuts +25\nKing Halo bond +5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fuji Kiseki (R) Support Card",
+    "url": "https://gametora.com/umamusume/supports/10049-fuji-kiseki",
+    "events": [
+      {
+        "event_title": "Sleight of Hand",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +15\nFuji Kiseki bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nFuji Kiseki bond +5"
+          }
+        ]
+      },
+      {
+        "event_title": "Misdirection",
+        "options": [
+          {
+            "option": "Top Option",
+            "result": "Wisdom +5\nSkill points +15\nFuji Kiseki bond +5"
+          },
+          {
+            "option": "Bottom Option",
+            "result": "Power +5\nSkill points +15\nFuji Kiseki bond +5"
+          }
+        ]
+      }
+    ]
+  }
+]
