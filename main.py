@@ -1,173 +1,274 @@
 import json
 import time
+import os
+import re
 import mss
+import mss.tools
 import pytesseract
 from PIL import Image
 import cv2
 import numpy as np
-import os
+import sys ### NEW: Required for the path helper
 
+# --- NEW: Helper function to find data files in a bundled app ---
+def resource_path(relative_path):
+    """ Get absolute path to resource, works for dev and for PyInstaller """
+    try:
+        # PyInstaller creates a temp folder and stores path in _MEIPASS
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
 
+    return os.path.join(base_path, relative_path)
+
+# --- CONFIGURATION (USER MUST SET THIS UP) ---
+
+# 1. TESSERACT PATH: 
+# IMPORTANT: Uncomment and set this path. This is CRITICAL for the compiled .exe.
+# The user of your .exe will need Tesseract installed in this exact location.
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
+# 2. TEMPLATE IMAGE: Use the resource_path helper function
+TEMPLATE_PATH = resource_path("scan.png") 
+
+# 3. JSON DATA FILES: Use the resource_path helper function
+FILES_TO_LOAD = [
+    resource_path("scraped_character_events.json"), 
+    resource_path("scraped_events_data.json")
+]
+
+# 4. ROI and RESOLUTION:
 REFERENCE_WIDTH = 1920
 REFERENCE_HEIGHT = 1080
-
-TEMPLATE_PATH = "scan.png"
 REF_ROI_OFFSET_X = 0
 REF_ROI_OFFSET_Y = 0
 REF_ROI_WIDTH = 393
 REF_ROI_HEIGHT = 86
 
-def capture_and_ocr_screen_with_template(template_path, ref_roi_offset_x, ref_roi_offset_y, ref_roi_width, ref_roi_height, tesseract_path=None):
-    if tesseract_path:
-        if os.path.exists(tesseract_path):
-            pytesseract.pytesseract.tesseract_cmd = tesseract_path
-        else:
-            print(f"Error: Tesseract executable not found at '{tesseract_path}'")
-            return ""
 
+# --- OCR AND SCREEN CAPTURE FUNCTIONS (No changes needed here) ---
+
+def capture_and_ocr_screen_with_template(template_path, ref_roi_offset_x, ref_roi_offset_y, ref_roi_width, ref_roi_height):
+    """
+    Captures a screenshot, finds a template, and performs OCR on a defined ROI.
+    Returns a dictionary containing the found text and performance timings for each step.
+    """
+    timings = {"capture": 0, "template_matching": 0, "ocr": 0}
+    
     if not os.path.exists(template_path):
-        print(f"Error: Template image not found at '{template_path}'.")
-        return ""
+        return {"text": "", "status": f"error_no_template_file at {template_path}", "timings": timings}
 
+    # --- 1. Screen Capture ---
+    start_capture = time.perf_counter()
     with mss.mss() as sct:
         monitor = sct.monitors[1]
-        current_width = monitor["width"]
-        current_height = monitor["height"]
-
-        scale_x = current_width / REFERENCE_WIDTH
-        scale_y = current_height / REFERENCE_HEIGHT
-
         sct_img = sct.grab(monitor)
-        img_pil = Image.frombytes("RGB", sct_img.size, sct_img.rgb)
-        screenshot_np = np.array(img_pil)
-        screenshot_gray = cv2.cvtColor(screenshot_np, cv2.COLOR_RGB2GRAY)
+    timings["capture"] = (time.perf_counter() - start_capture) * 1000
+
+    current_width, current_height = monitor["width"], monitor["height"]
+    scale_x = current_width / REFERENCE_WIDTH
+    scale_y = current_height / REFERENCE_HEIGHT
+
+    img_pil = Image.frombytes("RGB", sct_img.size, sct_img.rgb)
+    screenshot_np = np.array(img_pil)
+    screenshot_gray = cv2.cvtColor(screenshot_np, cv2.COLOR_RGB2GRAY)
 
     template = cv2.imread(template_path, cv2.IMREAD_GRAYSCALE)
     if template is None:
-        print(f"Error: Could not load template image from '{template_path}'. Check path and image format.")
-        return ""
+        return {"text": "", "status": f"error_template_load_fail at {template_path}", "timings": timings}
 
-    template_scaled_width = int(template.shape[1] * scale_x)
-    template_scaled_height = int(template.shape[0] * scale_y)
-
-    template_scaled_width = max(1, template_scaled_width)
-    template_scaled_height = max(1, template_scaled_height)
-
+    template_scaled_width = max(1, int(template.shape[1] * scale_x))
+    template_scaled_height = max(1, int(template.shape[0] * scale_y))
     template_scaled = cv2.resize(template, (template_scaled_width, template_scaled_height), interpolation=cv2.INTER_AREA)
 
-    w, h = template_scaled.shape[::-1]
-
+    # --- 2. Template Matching ---
+    start_match = time.perf_counter()
     res = cv2.matchTemplate(screenshot_gray, template_scaled, cv2.TM_CCOEFF_NORMED)
     min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(res)
+    timings["template_matching"] = (time.perf_counter() - start_match) * 1000
 
-    threshold = 0.7 # Adjust this threshold based on your template and desired accuracy
+    threshold = 0.7
     if max_val >= threshold:
         top_left = max_loc
-
         roi_offset_x_scaled = int(ref_roi_offset_x * scale_x)
         roi_offset_y_scaled = int(ref_roi_offset_y * scale_y)
         roi_width_scaled = int(ref_roi_width * scale_x)
         roi_height_scaled = int(ref_roi_height * scale_y)
 
-        x1 = top_left[0] + roi_offset_x_scaled
-        y1 = top_left[1] + roi_offset_y_scaled
-        x2 = x1 + roi_width_scaled
-        y2 = y1 + roi_height_scaled
-
-        x1 = max(0, x1)
-        y1 = max(0, y1)
-        x2 = min(monitor["width"], x2)
-        y2 = min(monitor["height"], y2)
-
+        x1, y1 = top_left[0] + roi_offset_x_scaled, top_left[1] + roi_offset_y_scaled
+        x2, y2 = x1 + roi_width_scaled, y1 + roi_height_scaled
+        
         if x2 <= x1 or y2 <= y1:
-            return ""
+            return {"text": "", "status": "error_invalid_roi", "timings": timings}
 
         roi_img_np = screenshot_np[y1:y2, x1:x2]
-        roi_img_pil = Image.fromarray(cv2.cvtColor(roi_img_np, cv2.COLOR_RGB2BGR))
 
-        # roi_img_pil.save("debug_roi.png")
-        try:
-            text = pytesseract.image_to_string(roi_img_pil, lang='eng')
-        except pytesseract.TesseractNotFoundError:
-            print("Error: Tesseract OCR not found. Please install it and add to PATH or specify path in tesseract_path")
-            return ""
-        return text
+        # --- 3. OCR Processing ---
+        start_ocr = time.perf_counter()
+        text = pytesseract.image_to_string(Image.fromarray(roi_img_np), lang='eng')
+        timings["ocr"] = (time.perf_counter() - start_ocr) * 1000
+
+        return {"text": text.strip(), "status": "success", "timings": timings}
     else:
+        return {"text": "", "status": "template_not_found", "timings": timings}
+
+# --- JSON DATA HANDLING AND DISPLAY FUNCTIONS (No changes needed here) ---
+
+def load_events(filenames):
+    """
+    Loads event data from a list of JSON files and "tags" each
+    entry with its source filename.
+    """
+    combined_data = []
+    print("Loading event data...")
+    for filename in filenames:
+        try:
+            # Get the base name for display purposes
+            display_name = os.path.basename(filename)
+            with open(filename, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                # Add the source file to each top-level object
+                for item in data:
+                    item['source_file'] = display_name
+                combined_data.extend(data)
+                print(f"  - Successfully loaded {display_name}")
+        except FileNotFoundError:
+            print(f"  - Warning: '{os.path.basename(filename)}' not found. Skipping.")
+        except json.JSONDecodeError:
+            print(f"  - Warning: '{os.path.basename(filename)}' is not a valid JSON. Skipping.")
+    
+    if not combined_data:
+        print("\nError: Could not load any event data. Exiting.")
+        return None
+    print("Data loading complete.")
+    return combined_data
+
+def find_event(events_data, search_query):
+    """
+    Searches for an event and returns the event details, holder name,
+    the original source file, and search latency.
+    """
+    start_search = time.perf_counter()
+    normalized_query = normalize_title(search_query)
+    
+    if not normalized_query:
+        return None, None, None, 0
+
+    found_event, holder_name, source_file = None, None, None
+    for holder in events_data:
+        for event in holder.get("events", []):
+            json_title = event.get("title", "")
+            normalized_json_title = normalize_title(json_title)
+            
+            if normalized_query == normalized_json_title:
+                holder_name = holder.get("event_holder_name") or holder.get("character_name") or "Unknown Holder"
+                found_event = event
+                source_file = holder.get("source_file") # Get the source file tag
+                break
+        if found_event:
+            break
+            
+    latency_ms = (time.perf_counter() - start_search) * 1000
+    return found_event, holder_name, source_file, latency_ms
+
+def display_results(query, found_event, holder_name, source_file, timings):
+    """
+    Clears the console and displays search results and performance metrics
+    in the new requested format.
+    """
+    os.system('cls' if os.name == 'nt' else 'clear')
+    
+    if found_event:
+        if source_file == "scraped_character_events.json":
+            display_header = "Trainee Event"
+        else:
+            display_header = f"Event found for: {holder_name}"
+        
+        print(f"{display_header}")
+        print(f"Title: {found_event['title']}")
+        print("="*60)
+
+        for option in found_event.get('options', []):
+            print(f"\n--- Choice: {option.get('choice', 'N/A')} ---")
+            for effect in option.get('effects', []):
+                print(f"  - {effect}")
+    else:
+        print(f"Searching for text from screen: '{query}'")
+        print("-" * 30)
+        print(f"\nNo event details found matching '{query}'.")
+
+    performance_line = (
+        f"Screen Capture: {timings['capture']:.2f} ms | "
+        f"Template Matching: {timings['template_matching']:.2f} ms | \n"
+        f"OCR Processing: {timings['ocr']:.2f} ms | "
+        f"JSON Search: {timings['search']:.2f} ms |"
+    )
+    print("\n" + "="*60)
+    print(performance_line)
+    print("\n--- Continuously scanning... (Press Ctrl+C to exit) ---")
+    
+def normalize_title(title: str) -> str:
+    """
+    Normalizes a title for robust comparison by making it lowercase and
+    removing all characters that are not letters.
+    """
+    if not title:
         return ""
+    normalized = title.lower()
+    normalized = re.sub(r'[^a-z\s]', '', normalized)
+    normalized = re.sub(r'\s+', ' ', normalized).strip()
+    return normalized
 
-def search_event_title(event_title_to_find, data_file='gametora_support_data.json'):
-
-    try:
-        with open(data_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-    except FileNotFoundError:
-        print(f"Error: Data file '{data_file}' not found.")
-        return None, 0
-    except json.JSONDecodeError:
-        print(f"Error: Could not decode JSON from '{data_file}'.")
-        return None, 0
-
-    start_time = time.perf_counter()
-
-    found_events = []
-    for card in data:
-        for event in card.get('events', []):
-            if event_title_to_find.lower() in event.get('event_title', '').lower():
-                found_events.append({
-                    "card_name": card.get('name'),
-                    "card_url": card.get('url'),
-                    "event_title": event.get('event_title'),
-                    "options": event.get('options')
-                })
-
-    end_time = time.perf_counter()
-    latency = (end_time - start_time) * 1000 # Convert to milliseconds
-
-    return found_events, latency
+# --- MAIN EXECUTION BLOCK (No changes needed here) ---
 
 if __name__ == '__main__':
-    os.system('cls')
-    print("--- Event Title Search Script ---")
-    # print("Position the target window. Scanning every second...")
-    
-    # Set to None to use system PATH, or specify path like r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-    TESSERACT_PATH = None
+    events_data = load_events(FILES_TO_LOAD)
+    if not events_data:
+        # ### NEW: Add a pause so the user can see the error in the console ###
+        input("Press Enter to exit.") 
+        exit()
+
+    last_successful_query = ""
+    print("\n--- Starting Automatic Scan ---")
+    print("Please ensure the target window/game is visible.")
+    print("Press Ctrl+C to exit at any time.")
+    time.sleep(1)
 
     while True:
-        time.sleep(1)  # Scan every second
-        ocr_text = capture_and_ocr_screen_with_template(
-            TEMPLATE_PATH,
-            REF_ROI_OFFSET_X,
-            REF_ROI_OFFSET_Y,
-            REF_ROI_WIDTH,
-            REF_ROI_HEIGHT,
-            TESSERACT_PATH
-        ).strip()
-        
-        if not ocr_text:
-            continue
+        try:
+            total_cycle_start = time.perf_counter()
+            ocr_result = capture_and_ocr_screen_with_template(
+                TEMPLATE_PATH, REF_ROI_OFFSET_X, REF_ROI_OFFSET_Y, REF_ROI_WIDTH, REF_ROI_HEIGHT
+            )
             
-        # Extract just the event title (last non-empty line)
-        lines = [line.strip() for line in ocr_text.splitlines() if line.strip()]
-        if lines:
-            search_query = lines[-1]
-            # Remove trailing numbers if present (e.g. "Lovely Training Weather 5")
-            if search_query and search_query[-1].isdigit():
-                search_query = search_query[:-1].strip()
+            cycle_timings = ocr_result["timings"]
+            cycle_timings["search"] = 0 
+
+            ocr_text = ocr_result["text"]
+            current_query = ""
+            
+            # ### NEW: Added a check for the error status for better debugging ###
+            if ocr_result["status"] != "success" and ocr_result["status"] != "template_not_found":
+                 print(f"An error occurred during capture: {ocr_result['status']}")
+
+            if ocr_text:
+                lines = [line.strip() for line in ocr_text.splitlines() if line.strip()]
+                if lines:
+                    current_query = lines[-1]
+
+            if current_query and current_query != last_successful_query:
+                print(f"New text detected: '{current_query}'. Searching...")
+                last_successful_query = current_query
+                found_event, holder_name, source_file, search_latency = find_event(events_data, current_query)
+                cycle_timings["search"] = search_latency
+                display_results(current_query, found_event, holder_name, source_file, cycle_timings)
+
+            time.sleep(1)
+
+        except KeyboardInterrupt:
+            print("\nScript stopped by user. Exiting.")
             break
-
-    results, search_latency = search_event_title(search_query)
-
-    if results is not None:
-        if results:
-            print(f"\nFound {len(results)} matching events:")
-            for result in results:
-                print(f"\nCard: {result['card_name']}")
-                print(f"Event Title: {result['event_title']}")
-                print("Options:")
-                for option in result['options']:
-                    print(f"  - {option['option']}: {option['result'].replace('\n', ' | ')}")
-            print(f"\nSearch completed in {search_latency:.4f} ms.")
-        else:
-            print(f"\nNo events found matching '{search_query}'.")
-            print(f"Search completed in {search_latency:.4f} ms.")
+        except Exception as e:
+            print(f"\nAn unexpected error occurred: {e}")
+            print("Restarting scan in 5 seconds...")
+            time.sleep(1)

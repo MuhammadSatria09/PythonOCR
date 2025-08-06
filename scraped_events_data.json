@@ -1,0 +1,3625 @@
+[
+    {
+        "selected_card_index": 0,
+        "event_holder_name": "Yaeno Muteki",
+        "events": [
+            {
+                "title": "(❯❯) A Reasonable Diet vs. an Explosive Diet",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Skill points +10",
+                            "Yaeno Muteki bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +10",
+                            "Skill points +10",
+                            "Playtime's Over! hint +3",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Firm and Plain, Yet Close to Virtue",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +10"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Power +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "The Will to Protect!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +10",
+                            "Power +10"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Medium Corners ○ hint +1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 1,
+        "event_holder_name": "Winning Ticket",
+        "events": [
+            {
+                "title": "Full-Power Muscles!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Skill points +15",
+                            "Winning Ticket bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Skill points +15",
+                            "Winning Ticket bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Full-Power Racing!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Late Surger Corners ○ hint +1",
+                            "Winning Ticket bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Skill points +30",
+                            "Winning Ticket bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 2,
+        "event_holder_name": "Yukino Bijin",
+        "events": [
+            {
+                "title": "(❯) Cozy Memories of Wanko Soba",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +1",
+                            "Yukino Bijin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Maximum Energy +4",
+                            "Yukino Bijin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯) The Class Rep's Intense Crash Course",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +1",
+                            "Power +5",
+                            "Yukino Bijin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +3",
+                            "Guts +3",
+                            "Wisdom +3",
+                            "Yukino Bijin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯❯) I Wanna Win!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +1",
+                            "No Stopping Me! hint +1",
+                            "Yukino Bijin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +3",
+                            "Guts +3",
+                            "Wisdom +3",
+                            "No Stopping Me! hint +1",
+                            "Yukino Bijin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "For a Spiffy Concert",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Guts +10",
+                            "Yukino Bijin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Guts +15",
+                            "Yukino Bijin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Aiming for the City Spots",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Mood +1",
+                            "Guts +10",
+                            "Yukino Bijin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Corner Acceleration ○ hint +1",
+                            "Yukino Bijin bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 3,
+        "event_holder_name": "Kitasan Black",
+        "events": [
+            {
+                "title": "(❯❯) Paying It Forward",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Mood +1",
+                            "Kitasan Black bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +5/+10",
+                            "Straightaway Adept hint +1/+3",
+                            "Kitasan Black bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Ah, Friendship",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +1",
+                            "Power +5",
+                            "Kitasan Black bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Kitasan Black bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Ah, Home Sweet Home",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +5",
+                            "Power +10",
+                            "Kitasan Black bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Get Practice Perfect ○ status",
+                            "Kitasan Black bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 4,
+        "event_holder_name": "Satono Diamond",
+        "events": [
+            {
+                "title": "(❯❯) Diamond Fixation",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +10",
+                            "Satono Diamond bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Randomly either",
+                            "Energy +15",
+                            "Stamina +10",
+                            "Satono Diamond bond +5",
+                            "or",
+                            "Mood -1",
+                            "Guts +20"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯❯) Only for You",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -20",
+                            "Stamina +30",
+                            "Iron Will hint +1",
+                            "Satono Diamond bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +5",
+                            "Guts +5",
+                            "Iron Will hint +1",
+                            "Satono Diamond bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "I Love New Things!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Guts +10",
+                            "Satono Diamond bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Stamina +20",
+                            "Satono Diamond bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "I Love Complicated Things!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Guts +10",
+                            "Satono Diamond bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Hesitant Front Runners hint +1",
+                            "Satono Diamond bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 5,
+        "event_holder_name": "Matikanetannhauser",
+        "events": [
+            {
+                "title": "(❯) Seeking Uniqueness!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +1",
+                            "Matikanetannhauser bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10/+30",
+                            "Matikanetannhauser bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Just Your Typical Hard Work!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +10",
+                            "Matikanetannhauser bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +10",
+                            "Matikanetannhauser bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Just A Typical Accident?!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Guts +10",
+                            "Matikanetannhauser bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Subdued Front Runners hint +1",
+                            "Matikanetannhauser bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 6,
+        "event_holder_name": "Mejiro Palmer",
+        "events": [
+            {
+                "title": "(❯) Run Away to First Base",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -15",
+                            "Stamina +10",
+                            "Guts +10",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -15",
+                            "Guts +10",
+                            "Wisdom +10",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯) Runaway Romance",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Guts +5",
+                            "Wisdom +5",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Front Runner Savvy ○ hint +1",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯❯) Optimistic Escapism: Never Give Up!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -20",
+                            "Stamina +5",
+                            "Guts +5",
+                            "Vanguard Spirit hint +3 or Keeping the Lead hint +1/+3",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Lone Wolf hint +1"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "An Inescapable Choice?",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -15",
+                            "Guts +20",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +5",
+                            "Skill points +15",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Optimistic Escapism",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Guts +15",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wet Conditions ○ hint +1",
+                            "Mejiro Palmer bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 7,
+        "event_holder_name": "Twin Turbo",
+        "events": [
+            {
+                "title": "(❯) I'm Not Afraid!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Randomly either",
+                            "Speed +10",
+                            "Twin Turbo bond +5",
+                            "or",
+                            "Energy -10",
+                            "Speed +10",
+                            "Event chain ended"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +20",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯) Can't Catch Me!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Randomly either",
+                            "Speed +15",
+                            "Leader's Pride hint +3",
+                            "Twin Turbo bond +5",
+                            "or",
+                            "Energy -10",
+                            "Speed +10",
+                            "Event chain ended"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +25",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯❯) Turbo Is Strong!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Randomly either",
+                            "Energy -10",
+                            "Speed +5",
+                            "Early Lead hint +3",
+                            "or",
+                            "Energy -10",
+                            "Speed +25",
+                            "Taking the Lead hint +3",
+                            "Twin Turbo bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +15",
+                            "Watchful Eye hint +1"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Just Start Running!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood -1",
+                            "Speed +20"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Power +20"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "I'm All Fired Up!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +15",
+                            "Twin Turbo bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Early Lead hint +1",
+                            "Twin Turbo bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 8,
+        "event_holder_name": "Oguri Cap",
+        "events": [
+            {
+                "title": "(❯❯) How Should I Respond?",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +5",
+                            "Skill points +10",
+                            "Stamina to Spare hint +1",
+                            "Oguri Cap bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina +5",
+                            "Skill points +10",
+                            "Outer Swell hint +1",
+                            "Oguri Cap bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯❯) What I Want to Say",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Randomly either",
+                            "Power +10",
+                            "Guts +5",
+                            "Skill points +10",
+                            "Oguri Cap bond +5",
+                            "Furious Feat hint +1",
+                            "or",
+                            "Power +15",
+                            "Guts +10",
+                            "Skill points +15",
+                            "Oguri Cap bond +5",
+                            "Furious Feat hint +3"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +30"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "How Should I Respond?",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +5",
+                            "Power +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Guts +15"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Conquering the Crowds",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +5",
+                            "Skill points +15"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Nakayama Racecourse ○ hint +1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 9,
+        "event_holder_name": "Special Week",
+        "events": [
+            {
+                "title": "(❯❯) Just a Little Closer",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Speed +15",
+                            "Special Week bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Mid",
+                        "effects": [
+                            "Energy -10",
+                            "Skill points +20",
+                            "Special Week bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Shake It Out hint +1",
+                            "Special Week bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Watch Where You're Going!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Extra Tank hint +1",
+                            "Special Week bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Guts +15",
+                            "Special Week bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "So Many Options!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Mood +1",
+                            "Special Week bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Stamina +15",
+                            "Skill points +15",
+                            "Special Week bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 10,
+        "event_holder_name": "Special Week",
+        "events": [
+            {
+                "title": "(❯❯) A Roller Coaster of Feelings!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Speed +5",
+                            "Stamina +5",
+                            "Guts +10",
+                            "Special Week bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +20",
+                            "Wisdom +10",
+                            "Special Week bond +5",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Watch Where You're Going!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Extra Tank hint +1",
+                            "Special Week bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Guts +15",
+                            "Special Week bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "So Many Options!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Mood +1",
+                            "Special Week bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Stamina +15",
+                            "Skill points +15",
+                            "Special Week bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 11,
+        "event_holder_name": "Silence Suzuka",
+        "events": [
+            {
+                "title": "On and On",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +10",
+                            "Stamina +5",
+                            "Silence Suzuka bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +15",
+                            "Silence Suzuka bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "What Should I Do?",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +5",
+                            "Stamina +5",
+                            "Wisdom +5",
+                            "Silence Suzuka bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Left-Handed ○ hint +1",
+                            "Silence Suzuka bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 12,
+        "event_holder_name": "Tokai Teio",
+        "events": [
+            {
+                "title": "My Way, Or...",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +1",
+                            "Skill points +15",
+                            "Tokai Teio bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Guts +15",
+                            "Tokai Teio bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "My Weapon",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +1",
+                            "Guts +10",
+                            "Tokai Teio bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Pace Chaser Straightaways ○ hint +1",
+                            "Tokai Teio bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 13,
+        "event_holder_name": "Gold Ship",
+        "events": [
+            {
+                "title": "Adventurer Gold Ship",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +15",
+                            "Gold Ship bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Guts +10",
+                            "Skill points +15",
+                            "Gold Ship bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Revive the Brand! Golshi's Yakisoba",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +1",
+                            "Stamina +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Hanshin Racecourse ○ hint +1",
+                            "Gold Ship bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 14,
+        "event_holder_name": "Vodka",
+        "events": [
+            {
+                "title": "The Coolest Line",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +10",
+                            "Vodka bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +5",
+                            "Skill points +15",
+                            "Vodka bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Enemies on Main Street",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Nimble Navigator hint +1",
+                            "Vodka bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +5",
+                            "Skill points +15",
+                            "Vodka bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 15,
+        "event_holder_name": "Grass Wonder",
+        "events": [
+            {
+                "title": "(❯❯) A Moment's Respite",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +15",
+                            "Grass Wonder bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Randomly either",
+                            "Energy -10",
+                            "Power +5",
+                            "Guts +5",
+                            "Wisdom +5",
+                            "Grass Wonder bond +5",
+                            "or",
+                            "Power +5",
+                            "Guts +5",
+                            "Wisdom +10",
+                            "Grass Wonder bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Library Vexation",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +10",
+                            "Grass Wonder bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Guts +5",
+                            "Wisdom +5",
+                            "Grass Wonder bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "A Friendly Daytime Discussion",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Frenzied Pace Chasers hint +1",
+                            "Grass Wonder bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Target in Sight ○ hint +1",
+                            "Grass Wonder bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 16,
+        "event_holder_name": "El Condor Pasa",
+        "events": [
+            {
+                "title": "(❯❯) Uma-me",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +30",
+                            "El Condor Pasa bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina to Spare hint +1",
+                            "El Condor Pasa bond +5",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Blazing Fire!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +10",
+                            "El Condor Pasa bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Power +20",
+                            "El Condor Pasa bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Secret Notebook!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +10",
+                            "El Condor Pasa bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Sunny Days ○ hint +1",
+                            "El Condor Pasa bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 17,
+        "event_holder_name": "Seiun Sky",
+        "events": [
+            {
+                "title": "(❯) Be Strategic ☆",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Seiun Sky bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Skill points +30",
+                            "Second Wind hint +1",
+                            "Seiun Sky bond -5",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Recruiting Cat Catchers",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Seiun Sky bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Speed +15",
+                            "Stamina +5",
+                            "Seiun Sky bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Recruiting Advisors",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +15",
+                            "Seiun Sky bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Keeping the Lead hint +1",
+                            "Seiun Sky bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 18,
+        "event_holder_name": "Tamamo Cross",
+        "events": [
+            {
+                "title": "Tamamo's School Tour",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +10",
+                            "Tamamo Cross bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina +5",
+                            "Guts +5",
+                            "Tamamo Cross bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "A Battle I Can't Lose!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Calm in a Crowd hint +1",
+                            "Tamamo Cross bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina +5",
+                            "Wisdom +5",
+                            "Tamamo Cross bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 19,
+        "event_holder_name": "Fine Motion",
+        "events": [
+            {
+                "title": "(❯) Lovely Training Weather ♪",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +5",
+                            "Skill points +20",
+                            "Fine Motion bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Mid",
+                        "effects": [
+                            "Speed +10",
+                            "Stamina +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Get Practice Perfect ○ status",
+                            "Fine Motion bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Wonderful New Shoes",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +5",
+                            "Skill points +10",
+                            "Fine Motion bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Stamina +5",
+                            "Skill points +20",
+                            "Fine Motion bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Reminiscent Clover",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Corner Adept ○ hint +1",
+                            "Fine Motion bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Guts +15",
+                            "Fine Motion bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 20,
+        "event_holder_name": "Ines Fujin",
+        "events": [
+            {
+                "title": "It's a Game of Tag!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Speed +5",
+                            "Ines Fujin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Fast-Paced hint +1",
+                            "Ines Fujin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Ten Minutes Left!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Guts +15",
+                            "Ines Fujin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wisdom +15",
+                            "Ines Fujin bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 21,
+        "event_holder_name": "Winning Ticket",
+        "events": [
+            {
+                "title": "Full-Power Muscles!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Skill points +15",
+                            "Winning Ticket bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Skill points +15",
+                            "Winning Ticket bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Full-Power Racing!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Late Surger Corners ○ hint +1",
+                            "Winning Ticket bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Skill points +30",
+                            "Winning Ticket bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 22,
+        "event_holder_name": "Air Shakur",
+        "events": [
+            {
+                "title": "//Verification Required",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Guts +5",
+                            "Air Shakur bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Stamina +5",
+                            "Guts +10",
+                            "Air Shakur bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "//Absolute Desire",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Pace Strategy hint +1",
+                            "Air Shakur bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Maximum Energy +4",
+                            "Guts +5",
+                            "Air Shakur bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 23,
+        "event_holder_name": "Gold City",
+        "events": [
+            {
+                "title": "08:36 / Crap, I Overslept",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood -1",
+                            "Skill points +45",
+                            "Gold City bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Gold City bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "13:12 / Lunch Break, Gotta Get Myself Together",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Skill points +30",
+                            "Gold City bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "A Small Breather hint +1",
+                            "Gold City bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 24,
+        "event_holder_name": "Sakura Bakushin O",
+        "events": [
+            {
+                "title": "Genius Efficiency!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +15",
+                            "Sakura Bakushin O bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +5",
+                            "Power +10",
+                            "Sakura Bakushin O bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Enough to Break into a Dash!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Gap Closer hint +1",
+                            "Sakura Bakushin O bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Speed +10",
+                            "Power +5",
+                            "Sakura Bakushin O bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 25,
+        "event_holder_name": "Super Creek",
+        "events": [
+            {
+                "title": "Leave it to Me to Help Out! ♪",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +15",
+                            "Super Creek bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina +10",
+                            "Super Creek bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Leave it to Me to Be Considerate! ♪",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Deep Breaths hint +1",
+                            "Super Creek bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Stamina +5",
+                            "Super Creek bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 26,
+        "event_holder_name": "Smart Falcon",
+        "events": [
+            {
+                "title": "(❯) Always on Stage ☆",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +10",
+                            "Smart Falcon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +25",
+                            "Focus hint +1",
+                            "Smart Falcon bond +5",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Chants Are the Life of a Concert ☆",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Guts +10",
+                            "Smart Falcon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wisdom +15",
+                            "Smart Falcon bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "If I'm Cute, Come to My Show! ☆",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Power +10",
+                            "Final Push hint +1",
+                            "Smart Falcon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Smart Falcon bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 27,
+        "event_holder_name": "Nishino Flower",
+        "events": [
+            {
+                "title": "(❯❯) Aspiring to Adulthood",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Wisdom +20",
+                            "Nishino Flower bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wisdom +5",
+                            "Skill points +15"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Warmth, Love, and Lunch",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Get Charming ○ status",
+                            "Nishino Flower bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +20",
+                            "Nishino Flower bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Let's Bloom Beautifully ♪",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +15",
+                            "Nishino Flower bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +10",
+                            "Power +5",
+                            "Nishino Flower bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 28,
+        "event_holder_name": "Haru Urara",
+        "events": [
+            {
+                "title": "Urara's ☆ Study Review",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Haru Urara bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Wisdom +5",
+                            "Haru Urara bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Urara's ☆ Long Shot Dash!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Long Shot ○ hint +1",
+                            "Haru Urara bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Energy +10",
+                            "Haru Urara bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 29,
+        "event_holder_name": "Biko Pegasus",
+        "events": [
+            {
+                "title": "A Hero's Woes",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +15",
+                            "Biko Pegasus bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +5",
+                            "Power +5",
+                            "Biko Pegasus bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Preparing My Special Move!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Sprint Straightaways ○ hint +1",
+                            "Biko Pegasus bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +30",
+                            "Biko Pegasus bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 30,
+        "event_holder_name": "Tazuna Hayakawa",
+        "events": [
+            {
+                "title": "(❯❯❯) Memories of Cinema",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +25",
+                            "Stamina +5",
+                            "Mood +1",
+                            "Tazuna Hayakawa bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina +10",
+                            "Guts +10",
+                            "Mood +1",
+                            "Tazuna Hayakawa bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "My Chosen Way of Life",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Mood +1",
+                            "Tazuna Hayakawa bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Wisdom +5",
+                            "Tazuna Hayakawa bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Enthusiastic Pair\nDating starts",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Mood +1",
+                            "Tazuna Hayakawa bond +5",
+                            "Can start dating"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood -1",
+                            "Tazuna Hayakawa bond -5",
+                            "Watchful Eye hint +1",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 31,
+        "event_holder_name": "Mejiro McQueen",
+        "events": [
+            {
+                "title": "To Maintain My Weight",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Stamina +15",
+                            "Mejiro McQueen bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Maximum Energy +4",
+                            "Stamina +5",
+                            "Mejiro McQueen bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "To Reach the Greatest Heights",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Guts +5",
+                            "Mejiro McQueen bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Early Lead hint +1",
+                            "Mejiro McQueen bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 32,
+        "event_holder_name": "Rice Shower",
+        "events": [
+            {
+                "title": "A Page of Flower Shop Assistance",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Mood +2",
+                            "Rice Shower bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina +10",
+                            "Rice Shower bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "A Page About Cloudy Weather",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +5",
+                            "Guts +5",
+                            "Rice Shower bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Firm Conditions ○ hint +1",
+                            "Rice Shower bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 33,
+        "event_holder_name": "Zenno Rob Roy",
+        "events": [
+            {
+                "title": "(❯) The Bookworm and the Magical Girl",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Wisdom +5",
+                            "Zenno Rob Roy bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +20",
+                            "Power +10",
+                            "Zenno Rob Roy bond +5",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Book-lover Quirks",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +5",
+                            "Wisdom +5",
+                            "Zenno Rob Roy bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Power +5",
+                            "Zenno Rob Roy bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "A Tale Entrusted",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +10",
+                            "Wisdom +10",
+                            "Zenno Rob Roy bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Medium Straightaways ○ hint +1",
+                            "Zenno Rob Roy bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 34,
+        "event_holder_name": "Nishino Flower",
+        "events": [
+            {
+                "title": "(❯❯) I Want to Say Thank You!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +5",
+                            "Straightaway Adept hint +1",
+                            "Nishino Flower bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wisdom +5",
+                            "Straightaway Acceleration hint +1",
+                            "Nishino Flower bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Warmth, Love, and Lunch",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Get Charming ○ status",
+                            "Nishino Flower bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +20",
+                            "Nishino Flower bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Let's Bloom Beautifully ♪",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +15",
+                            "Nishino Flower bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +10",
+                            "Power +5",
+                            "Nishino Flower bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 35,
+        "event_holder_name": "Nice Nature",
+        "events": [
+            {
+                "title": "(❯) Chasing Their Backs",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +5",
+                            "Wisdom +3",
+                            "Nice Nature bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Nice Nature bond +20"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Not like Meow",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +20",
+                            "Nice Nature bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Nice Nature bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(Delicious) Burden",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Ramp Up hint +1",
+                            "Nice Nature bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Maximum Energy +4",
+                            "Nice Nature bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 36,
+        "event_holder_name": "Ikuno Dictus",
+        "events": [
+            {
+                "title": "(❯❯) Ikuno-Style Support",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +15",
+                            "Frenzied Front Runners hint +3",
+                            "Ikuno Dictus bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wisdom +15",
+                            "Frenzied End Closers hint +3",
+                            "Ikuno Dictus bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Ikuno-Style Flawless Method",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +10",
+                            "Ikuno Dictus bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Skill points +30",
+                            "Ikuno Dictus bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Ikuno-Style Management",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +20",
+                            "Ikuno Dictus bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Trick (Rear) hint +1",
+                            "Ikuno Dictus bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 37,
+        "event_holder_name": "Daitaku Helios",
+        "events": [
+            {
+                "title": "(❯) #BFF #Party!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +10",
+                            "Daitaku Helios bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +10",
+                            "Daitaku Helios bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯) #LOL #Party! #Round2",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +10",
+                            "(random) Speed +10",
+                            "Straight Descent hint +1/+3",
+                            "Daitaku Helios bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +20",
+                            "Watchful Eye hint +1",
+                            "Daitaku Helios bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Encounter With the Sun ☆",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +10",
+                            "Daitaku Helios bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Get Hot Topic status",
+                            "Daitaku Helios bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Smiles Forever",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +5",
+                            "Power +10",
+                            "Daitaku Helios bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Long Shot ○ hint +1",
+                            "Daitaku Helios bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 38,
+        "event_holder_name": "Sweep Tosho",
+        "events": [
+            {
+                "title": "(❯) Some Very Green Friends",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +5",
+                            "Skill points +10",
+                            "Lucky Seven hint +1",
+                            "Sweep Tosho bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood -1",
+                            "Maverick ○ hint +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(❯❯) Premeditated Mischief",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Speed +10",
+                            "Skill points +20",
+                            "Levelheaded hint +1",
+                            "Sweep Tosho bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood -1",
+                            "Lone Wolf hint +1"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Miracle ☆ Escape!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Speed +5",
+                            "Sweep Tosho bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Speed +20",
+                            "Sweep Tosho bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Wonderful ☆ Mistake!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Randomly either",
+                            "Energy -15",
+                            "Skill points +40",
+                            "or",
+                            "Energy -20",
+                            "Skill points +40",
+                            "Sweep Tosho bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Get Charming ○ status",
+                            "Sweep Tosho bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 39,
+        "event_holder_name": "Fuji Kiseki",
+        "events": [
+            {
+                "title": "Sleight of Hand",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +5",
+                            "Skill points +15",
+                            "Fuji Kiseki bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +5",
+                            "Skill points +15",
+                            "Fuji Kiseki bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Misdirection",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Prepared to Pass hint +1",
+                            "Fuji Kiseki bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Skill points +30",
+                            "Fuji Kiseki bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 40,
+        "event_holder_name": "Daiwa Scarlet",
+        "events": [
+            {
+                "title": "I'm Going to Win Tomorrow!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +10",
+                            "Daiwa Scarlet bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Skill points +15",
+                            "Daiwa Scarlet bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "This Is Nothing!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina to Spare hint +1",
+                            "Daiwa Scarlet bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +20",
+                            "Mood +1",
+                            "Daiwa Scarlet bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 41,
+        "event_holder_name": "Hishi Amazon",
+        "events": [
+            {
+                "title": "Hishiama's Struggles: Problem Children",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Hishi Amazon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Speed +10",
+                            "Guts +5",
+                            "Hishi Amazon bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Hishiama's Struggles: Final Stretch",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Hesitant End Closers hint +1",
+                            "Hishi Amazon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +5",
+                            "Skill points +15",
+                            "Hishi Amazon bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 42,
+        "event_holder_name": "Air Groove",
+        "events": [
+            {
+                "title": "Strict but Gracious",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Go with the Flow hint +1",
+                            "Air Groove bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Agile but Strong",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +15",
+                            "Air Groove bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +10",
+                            "Stamina +5",
+                            "Air Groove bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 43,
+        "event_holder_name": "Agnes Digital",
+        "events": [
+            {
+                "title": "Umamusume Deficiency!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +5",
+                            "Speed +5",
+                            "Agnes Digital bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +5",
+                            "Power +5",
+                            "Agnes Digital bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Heavy Romance",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Rainy Days ○ hint +1",
+                            "Agnes Digital bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wet Conditions ○ hint +1",
+                            "Agnes Digital bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 44,
+        "event_holder_name": "Biwa Hayahide",
+        "events": [
+            {
+                "title": "Last-Minute Modal Theory",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +15",
+                            "Biwa Hayahide bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +10",
+                            "Skill points +15",
+                            "Biwa Hayahide bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Step-Out-of-Your-Comfort-Zone Theory",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Inside Scoop hint +1",
+                            "Biwa Hayahide bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Stamina +10",
+                            "Biwa Hayahide bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 45,
+        "event_holder_name": "Mayano Top Gun",
+        "events": [
+            {
+                "title": "Snack Advice for Mayano!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Guts +5",
+                            "Mayano Top Gun bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina +10",
+                            "Mayano Top Gun bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Fashion Advice for Mayano!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Straightaway Adept hint +1",
+                            "Mayano Top Gun bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Stamina +10",
+                            "Mayano Top Gun bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 46,
+        "event_holder_name": "Manhattan Cafe",
+        "events": [
+            {
+                "title": "Solo Nighttime Run",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +10",
+                            "Manhattan Cafe bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Stamina +5",
+                            "Manhattan Cafe bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "A Taste of Silence",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Skill points +15",
+                            "Manhattan Cafe bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Non-Standard Distance ○ hint +1",
+                            "Manhattan Cafe bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 47,
+        "event_holder_name": "Mihono Bourbon",
+        "events": [
+            {
+                "title": "(❯) I'm Not a Cyborg",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Guts +10",
+                            "Skill points +15",
+                            "Mihono Bourbon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Corner Recovery ○ hint +1",
+                            "(random) Mihono Bourbon bond -5",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Do No Harm",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Stamina +5",
+                            "Power +15",
+                            "Mihono Bourbon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Mihono Bourbon bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Orders Must Be Followed",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Focus hint +1",
+                            "Mihono Bourbon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +10",
+                            "Skill points +15",
+                            "Mihono Bourbon bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 48,
+        "event_holder_name": "Mejiro Ryan",
+        "events": [
+            {
+                "title": "My Muscles and Me, Onward to Tomorrow!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Power +15",
+                            "Mejiro Ryan bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Maximum Energy +4",
+                            "Power +5",
+                            "Mejiro Ryan bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "It's Not Like I Like Romance!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Pace Strategy hint +1",
+                            "Mejiro Ryan bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +30",
+                            "Mejiro Ryan bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 49,
+        "event_holder_name": "Yukino Bijin",
+        "events": [
+            {
+                "title": "For a Spiffy Concert",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Guts +10",
+                            "Yukino Bijin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Guts +15",
+                            "Yukino Bijin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Aiming for the City Spots",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -10",
+                            "Mood +1",
+                            "Guts +10",
+                            "Yukino Bijin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Corner Acceleration ○ hint +1",
+                            "Yukino Bijin bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 50,
+        "event_holder_name": "Agnes Tachyon",
+        "events": [
+            {
+                "title": "The Correlation between Sleep and Efficiency",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Power +5",
+                            "Wisdom +5",
+                            "Agnes Tachyon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wisdom +10",
+                            "Agnes Tachyon bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Happenstance Introduced Through Intervention",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Late Surger Savvy ○ hint +1",
+                            "Agnes Tachyon bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Wisdom +10",
+                            "Agnes Tachyon bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 51,
+        "event_holder_name": "Eishin Flash",
+        "events": [
+            {
+                "title": "Unforeseen Lunch",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +15",
+                            "Eishin Flash bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +5",
+                            "Guts +5",
+                            "Eishin Flash bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Responding to the Unforeseen",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Guts +10",
+                            "Eishin Flash bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Target in Sight ○ hint +1",
+                            "Eishin Flash bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 52,
+        "event_holder_name": "Narita Taishin",
+        "events": [
+            {
+                "title": "Just Leave Me Alone",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Stamina +5",
+                            "Skill points +15",
+                            "Narita Taishin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Power +5",
+                            "Skill points +15",
+                            "Narita Taishin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Just Don't Bother Me",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Pressure hint +1",
+                            "Narita Taishin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Skill points +30",
+                            "Narita Taishin bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 53,
+        "event_holder_name": "Marvelous Sunday",
+        "events": [
+            {
+                "title": "Marvelous, No Question ☆",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Speed +5",
+                            "Marvelous Sunday bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Speed +5",
+                            "Marvelous Sunday bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "How To Be More Marvelous ☆",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Mood +1",
+                            "Marvelous Sunday bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Hanshin Racecourse ○ hint +1",
+                            "Marvelous Sunday bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 54,
+        "event_holder_name": "Matikanefukukitaru",
+        "events": [
+            {
+                "title": "(❯❯) Guidance and Friends",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Skill points +45",
+                            "Matikanefukukitaru bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Randomly either",
+                            "Energy +10",
+                            "Mood +1",
+                            "Right-Handed ○ hint +3",
+                            "Matikanefukukitaru bond +5",
+                            "or",
+                            "Energy -20",
+                            "Right-Handed ○ hint +1",
+                            "Matikanefukukitaru bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Maximum Spirituality",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Wisdom +5",
+                            "Skill points +15",
+                            "Matikanefukukitaru bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy -10",
+                            "Speed +5",
+                            "Stamina +5",
+                            "Power +5",
+                            "Matikanefukukitaru bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "When Piety and Kindness Intersect",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Skill points +30",
+                            "Matikanefukukitaru bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +20",
+                            "Matikanefukukitaru bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 55,
+        "event_holder_name": "Meisho Doto",
+        "events": [
+            {
+                "title": "(❯) What I'm Destined For...",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Guts +5",
+                            "Meisho Doto bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Randomly either",
+                            "Energy -10",
+                            "Wisdom +5",
+                            "or",
+                            "Maximum Energy +4",
+                            "Mood +1",
+                            "Guts +5",
+                            "Wisdom +5",
+                            "Meisho Doto bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "I... Will Change",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Mood +1",
+                            "Meisho Doto bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Guts +15",
+                            "Meisho Doto bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Please... Buy Some Carrots",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Meisho Doto bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Pace Chaser Corners ○ hint +1",
+                            "Meisho Doto bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 56,
+        "event_holder_name": "Mejiro Dober",
+        "events": [
+            {
+                "title": "Give It a Try",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +15",
+                            "Mejiro Dober bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Skill points +15",
+                            "Mejiro Dober bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Hope She'll Like It...",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Skill points +45",
+                            "Mejiro Dober bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Unyielding Spirit hint +1",
+                            "Mejiro Dober bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 57,
+        "event_holder_name": "Nice Nature",
+        "events": [
+            {
+                "title": "Not like Meow",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +20",
+                            "Nice Nature bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Energy +10",
+                            "Wisdom +5",
+                            "Nice Nature bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "(Delicious) Burden",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Ramp Up hint +1",
+                            "Nice Nature bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood +1",
+                            "Maximum Energy +4",
+                            "Nice Nature bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 58,
+        "event_holder_name": "King Halo",
+        "events": [
+            {
+                "title": "You May Socialize With Me!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy -20",
+                            "Speed +10",
+                            "Power +10",
+                            "Wisdom +5",
+                            "King Halo bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood -1",
+                            "Guts +25",
+                            "King Halo bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "You May Advise Me!",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Guts +10",
+                            "Wisdom +5",
+                            "King Halo bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Homestretch Haste hint +1",
+                            "King Halo bond +5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "selected_card_index": 59,
+        "event_holder_name": "Aoi Kiryuin",
+        "events": [
+            {
+                "title": "(❯❯) How I Play at the Park",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +25",
+                            "Wisdom +5",
+                            "Aoi Kiryuin bond +5",
+                            "(random) Mood +1"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Randomly either",
+                            "Skill points +15",
+                            "Aoi Kiryuin bond +5",
+                            "or",
+                            "Speed +5",
+                            "Skill points +45",
+                            "Mood +1",
+                            "Aoi Kiryuin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Trainer Tip: Always Improve Your Coaching",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +10",
+                            "Skill points +15",
+                            "Aoi Kiryuin bond +5"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Speed +5",
+                            "Wisdom +5",
+                            "Aoi Kiryuin bond +5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "The Search for a Hobby\nDating starts",
+                "options": [
+                    {
+                        "choice": "Top",
+                        "effects": [
+                            "Energy +20",
+                            "Skill points +15",
+                            "Mood +1",
+                            "Aoi Kiryuin bond +5",
+                            "Can start dating"
+                        ]
+                    },
+                    {
+                        "choice": "Bot",
+                        "effects": [
+                            "Mood -1",
+                            "Maverick ○ hint +1",
+                            "Aoi Kiryuin bond -5",
+                            "Event chain ended"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
