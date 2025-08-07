@@ -1,7 +1,7 @@
 
 # BijiKuda
 
-A career support card event Helper for Uma Musume Pretty Derby (Steam).
+A career event Helper for Uma Musume Pretty Derby (Steam) Ver 1.9.11 2025/08/05.
 
 ---
 
