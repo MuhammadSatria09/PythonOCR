@@ -1,5 +1,8 @@
+# requirements.txt
+
+numpy
+opencv-python
+Pillow
 mss
 pytesseract
-Pillow
-opencv-python
-numpy
+thefuzz[speedup]
