@@ -12,6 +12,8 @@ import tkinter as tk
 from tkinter import font as tkFont
 from tkinter import messagebox
 from thefuzz import fuzz
+
+
 # from rapidocr import RapidOCR
 
 # engine = RapidOCR()
@@ -36,7 +38,7 @@ class Config:
 
     # Logic Thresholds
     MATCH_THRESHOLD = 85 # Minimum score for a fuzzy match to be considered valid
-    TEMPLATE_CONFIDENCE_THRESHOLD = 0.7 # Minimum confidence for template matching
+    TEMPLATE_CONFIDENCE_THRESHOLD = 0.6 # Minimum confidence for template matching
 
 # --- Part 2: Main Application Class ---
 # A single, consolidated class for the application. It handles the UI,
@@ -232,7 +234,7 @@ class EventFinderApp(tk.Tk):
 
         top_left, screenshot_np = best_match["max_loc"], best_match["screenshot_np"]
         roi_x, roi_y = top_left[0], top_left[1] + int(self.template_height // 2.5 )
-        roi_w, roi_h = self.template_width + self.template_width // 2, int(self.template_height - self.template_height // 2.5)
+        roi_w, roi_h = self.template_width + self.template_width // 2, int(self.template_height // 2)
         roi_img_np = screenshot_np[roi_y:roi_y + roi_h, roi_x:roi_x + roi_w]
 
         if Config.DEBUG_MODE and debug_image is not None:
@@ -252,8 +254,6 @@ class EventFinderApp(tk.Tk):
         start_ocr = time.perf_counter()
         try:
             text = pytesseract.image_to_string(Image.fromarray(roi_binary), lang='eng', config='--psm 6')
-            # text = ' '.join(engine(Image.fromarray(roi_binary)).txts)
-            # texts = "Paying it Forwards"
             timings["ocr"] = (time.perf_counter() - start_ocr) * 1000
             
             print(f"[DEBUG] OCR Raw Output: {repr(text)}")
