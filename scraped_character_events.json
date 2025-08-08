@@ -696,13 +696,13 @@
                     {
                         "choice": "Top",
                         "effects": [
-                            "Stamina +10"
+                            "(Varies Between Uma's) A Stat +10"
                         ]
                     },
                     {
                         "choice": "Bot",
                         "effects": [
-                            "Speed +10"
+                            "(Varies Between Uma's) A Stat +10"
                         ]
                     }
                 ]
@@ -713,7 +713,7 @@
                     {
                         "choice": "Top",
                         "effects": [
-                            "Wisdom +10"
+                            "(Varies Between Uma's) A Stat +10"
                         ]
                     },
                     {
