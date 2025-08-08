@@ -12,7 +12,7 @@ import tkinter as tk
 from tkinter import font as tkFont
 from tkinter import messagebox
 from thefuzz import fuzz
-from rapidocr import RapidOCR
+# from rapidocr import RapidOCR
 
 # engine = RapidOCR()
 # --- Part 1: Centralized Configuration ---
